@@ -1,0 +1,780 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Ship quests complete",
+      "region": "Before quillboar",
+      "category": ["Quests"],
+      "requires": ""
+    },
+    {
+      "name": "Murloc quests complete",
+      "region": "Before quillboar",
+      "category": ["Quests"],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned camp quests complete",
+      "region": "Before quillboar",
+      "category": ["Quests"],
+      "requires": ""
+    },
+    {
+      "name": "First class quests complete",
+      "region": "Before quillboar",
+      "category": ["Quests"],
+      "requires": ""
+    },
+    {
+      "name": "Quillboar quests complete",
+      "region": "Before quillboar",
+      "category": ["Quests"],
+      "requires": ""
+    },
+    {
+      "name": "Camp established",
+      "region": "Main camp",
+      "category": ["Quests"],
+      "requires": ""
+    },
+    {
+      "name": "Spider Quests complete",
+      "region": "Hruns barrow",
+      "category": ["Quests"],
+      "requires": ""
+    },
+    {
+      "name": "Second class quests complete",
+      "region": "Main camp",
+      "category": ["Quests"],
+      "requires": "|Unlock spiders| AND |Unlock harpies|"
+    },
+    {
+      "name": "Harpy quests complete",
+      "region": "Harpy roost",
+      "category": ["Quests"],
+      "requires": ""
+    },
+    {
+      "name": "Freeing the light complete",
+      "region": "Main camp",
+      "category": ["Quests"],
+      "requires": ""
+    },
+    {
+      "name": "Chest by beach",
+      "region": "Before quillboar",
+      "category": ["Misc"],
+      "requires": ""
+    },
+    {
+      "name": "Gork the basher defeated",
+      "region": "Before quillboar",
+      "category": ["Misc"],
+      "requires": ""
+    },
+    {
+      "name": "Chest right of leaving quillboars",
+      "region": "Main camp",
+      "category": ["Misc"],
+      "requires": ""
+    },
+    {
+      "name": "Chest by totem in harpy roost",
+      "region": "Harpy roost",
+      "category": ["Misc"],
+      "requires": ""
+    },
+    {
+      "name": "Ogre taskmaster defeated",
+      "region": "Harpy roost",
+      "category": ["Misc"],
+      "requires": ""
+    },
+    {
+      "name": "Killclaw the terrible quest complete",
+      "region": "Citadel",
+      "category": ["Quests"],
+      "requires": ""
+    },
+    {
+      "name": "Citadel Chest",
+      "region": "Citadel",
+      "category": ["Misc"],
+      "requires": ""
+    },
+    {
+      "name": "Citadel quests complete",
+      "region": "Citadel",
+      "category": ["Quests"],
+      "requires": ""
+    },
+    {
+      "name": "Druid level 1",
+      "region": "Before quillboar",
+      "category": ["Druid"],
+      "requires": "|Druid|"
+    },
+    {
+      "name": "Druid level 2",
+      "region": "Before quillboar",
+      "category": ["Druid"],
+      "requires": "|Druid|"
+    },
+    {
+      "name": "Druid level 3",
+      "region": "Before quillboar",
+      "category": ["Druid"],
+      "requires": "|Druid|"
+    },
+    {
+      "name": "Druid level 4",
+      "region": "Before quillboar",
+      "category": ["Druid"],
+      "requires": "|Druid|"
+    },
+    {
+      "name": "Druid level 5",
+      "region": "Before quillboar",
+      "category": ["Druid"],
+      "requires": "|Druid|"
+    },
+    {
+      "name": "Druid level 6",
+      "region": "Main camp",
+      "category": ["Druid"],
+      "requires": "|Progressive level cap| AND |Druid|"
+    },
+    {
+      "name": "Druid level 7",
+      "region": "Main camp",
+      "category": ["Druid"],
+      "requires": "|Progressive level cap| AND |Druid|"
+    },
+    {
+      "name": "Druid level 8",
+      "region": "Citadel",
+      "category": ["Druid"],
+      "requires": "|Progressive level cap| AND |Druid|"
+    },
+    {
+      "name": "Druid level 9",
+      "region": "Citadel",
+      "category": ["Druid"],
+      "requires": "|Progressive level cap| AND |Druid|"
+    },
+    {
+      "name": "Druid level 10",
+      "region": "Dungeon",
+      "category": ["Druid"],
+      "requires": "|Progressive level cap| AND |Druid|"
+    },
+    {
+      "name": "Druid dungeon complete",
+      "region": "Dungeon",
+      "category": ["Druid"],
+      "requires": "|Druid|"
+    },
+    {
+      "name": "Hunter level 1",
+      "region": "Before quillboar",
+      "category": ["Hunter"],
+      "requires": "|Hunter|"
+    },
+    {
+      "name": "Hunter level 2",
+      "region": "Before quillboar",
+      "category": ["Hunter"],
+      "requires": "|Hunter|"
+    },
+    {
+      "name": "Hunter level 3",
+      "region": "Before quillboar",
+      "category": ["Hunter"],
+      "requires": "|Hunter|"
+    },
+    {
+      "name": "Hunter level 4",
+      "region": "Before quillboar",
+      "category": ["Hunter"],
+      "requires": "|Hunter|"
+    },
+    {
+      "name": "Hunter level 5",
+      "region": "Before quillboar",
+      "category": ["Hunter"],
+      "requires": "|Hunter|"
+    },
+    {
+      "name": "Hunter level 6",
+      "region": "Main camp",
+      "category": ["Hunter"],
+      "requires": "|Progressive level cap| AND |Hunter|"
+    },
+    {
+      "name": "Hunter level 7",
+      "region": "Main camp",
+      "category": ["Hunter"],
+      "requires": "|Progressive level cap| AND |Hunter|"
+    },
+    {
+      "name": "Hunter level 8",
+      "region": "Citadel",
+      "category": ["Hunter"],
+      "requires": "|Progressive level cap| AND |Hunter|"
+    },
+    {
+      "name": "Hunter level 9",
+      "region": "Citadel",
+      "category": ["Hunter"],
+      "requires": "|Progressive level cap| AND |Hunter|"
+    },
+    {
+      "name": "Hunter level 10",
+      "region": "Dungeon",
+      "category": ["Hunter"],
+      "requires": "|Progressive level cap| AND |Hunter|"
+    },
+    {
+      "name": "Hunter dungeon complete",
+      "region": "Dungeon",
+      "category": ["Hunter"],
+      "requires": "|Hunter|"
+    },
+    {
+      "name": "Mage level 1",
+      "region": "Before quillboar",
+      "category": ["Mage"],
+      "requires": "|Mage|"
+    },
+    {
+      "name": "Mage level 2",
+      "region": "Before quillboar",
+      "category": ["Mage"],
+      "requires": "|Mage|"
+    },
+    {
+      "name": "Mage level 3",
+      "region": "Before quillboar",
+      "category": ["Mage"],
+      "requires": "|Mage|"
+    },
+    {
+      "name": "Mage level 4",
+      "region": "Before quillboar",
+      "category": ["Mage"],
+      "requires": "|Mage|"
+    },
+    {
+      "name": "Mage level 5",
+      "region": "Before quillboar",
+      "category": ["Mage"],
+      "requires": "|Mage|"
+    },
+    {
+      "name": "Mage level 6",
+      "region": "Main camp",
+      "category": ["Mage"],
+      "requires": "|Progressive level cap| AND |Mage|"
+    },
+    {
+      "name": "Mage level 7",
+      "region": "Main camp",
+      "category": ["Mage"],
+      "requires": "|Progressive level cap| AND |Mage|"
+    },
+    {
+      "name": "Mage level 8",
+      "region": "Citadel",
+      "category": ["Mage"],
+      "requires": "|Progressive level cap| AND |Mage|"
+    },
+    {
+      "name": "Mage level 9",
+      "region": "Citadel",
+      "category": ["Mage"],
+      "requires": "|Progressive level cap| AND |Mage|"
+    },
+    {
+      "name": "Mage level 10",
+      "region": "Dungeon",
+      "category": ["Mage"],
+      "requires": "|Progressive level cap| AND |Mage|"
+    },
+    {
+      "name": "Mage dungeon complete",
+      "region": "Dungeon",
+      "category": ["Mage"],
+      "requires": "|Mage|"
+    },
+    {
+      "name": "Monk level 1",
+      "region": "Before quillboar",
+      "category": ["Monk"],
+      "requires": "|Monk|"
+    },
+    {
+      "name": "Monk level 2",
+      "region": "Before quillboar",
+      "category": ["Monk"],
+      "requires": "|Monk|"
+    },
+    {
+      "name": "Monk level 3",
+      "region": "Before quillboar",
+      "category": ["Monk"],
+      "requires": "|Monk|"
+    },
+    {
+      "name": "Monk level 4",
+      "region": "Before quillboar",
+      "category": ["Monk"],
+      "requires": "|Monk|"
+    },
+    {
+      "name": "Monk level 5",
+      "region": "Before quillboar",
+      "category": ["Monk"],
+      "requires": "|Monk|"
+    },
+    {
+      "name": "Monk level 6",
+      "region": "Main camp",
+      "category": ["Monk"],
+      "requires": "|Progressive level cap| AND |Monk|"
+    },
+    {
+      "name": "Monk level 7",
+      "region": "Main camp",
+      "category": ["Monk"],
+      "requires": "|Progressive level cap| AND |Monk|"
+    },
+    {
+      "name": "Monk level 8",
+      "region": "Citadel",
+      "category": ["Monk"],
+      "requires": "|Progressive level cap| AND |Monk|"
+    },
+    {
+      "name": "Monk level 9",
+      "region": "Citadel",
+      "category": ["Monk"],
+      "requires": "|Progressive level cap| AND |Monk|"
+    },
+    {
+      "name": "Monk level 10",
+      "region": "Dungeon",
+      "category": ["Monk"],
+      "requires": "|Progressive level cap| AND |Monk|"
+    },
+    {
+      "name": "Monk dungeon complete",
+      "region": "Dungeon",
+      "category": ["Monk"],
+      "requires": "|Monk|"
+    },
+    {
+      "name": "Paladin level 1",
+      "region": "Before quillboar",
+      "category": ["Paladin"],
+      "requires": "|Paladin|"
+    },
+    {
+      "name": "Paladin level 2",
+      "region": "Before quillboar",
+      "category": ["Paladin"],
+      "requires": "|Paladin|"
+    },
+    {
+      "name": "Paladin level 3",
+      "region": "Before quillboar",
+      "category": ["Paladin"],
+      "requires": "|Paladin|"
+    },
+    {
+      "name": "Paladin level 4",
+      "region": "Before quillboar",
+      "category": ["Paladin"],
+      "requires": "|Paladin|"
+    },
+    {
+      "name": "Paladin level 5",
+      "region": "Before quillboar",
+      "category": ["Paladin"],
+      "requires": "|Paladin|"
+    },
+    {
+      "name": "Paladin level 6",
+      "region": "Main camp",
+      "category": ["Paladin"],
+      "requires": "|Progressive level cap| AND |Paladin|"
+    },
+    {
+      "name": "Paladin level 7",
+      "region": "Main camp",
+      "category": ["Paladin"],
+      "requires": "|Progressive level cap| AND |Paladin|"
+    },
+    {
+      "name": "Paladin level 8",
+      "region": "Citadel",
+      "category": ["Paladin"],
+      "requires": "|Progressive level cap| AND |Paladin|"
+    },
+    {
+      "name": "Paladin level 9",
+      "region": "Citadel",
+      "category": ["Paladin"],
+      "requires": "|Progressive level cap| AND |Paladin|"
+    },
+    {
+      "name": "Paladin level 10",
+      "region": "Dungeon",
+      "category": ["Paladin"],
+      "requires": "|Progressive level cap| AND |Paladin|"
+    },
+    {
+      "name": "Paladin dungeon complete",
+      "region": "Dungeon",
+      "category": ["Paladin"],
+      "requires": "|Paladin|"
+    },
+    {
+      "name": "Priest level 1",
+      "region": "Before quillboar",
+      "category": ["Priest"],
+      "requires": "|Priest|"
+    },
+    {
+      "name": "Priest level 2",
+      "region": "Before quillboar",
+      "category": ["Priest"],
+      "requires": "|Priest|"
+    },
+    {
+      "name": "Priest level 3",
+      "region": "Before quillboar",
+      "category": ["Priest"],
+      "requires": "|Priest|"
+    },
+    {
+      "name": "Priest level 4",
+      "region": "Before quillboar",
+      "category": ["Priest"],
+      "requires": "|Priest|"
+    },
+    {
+      "name": "Priest level 5",
+      "region": "Before quillboar",
+      "category": ["Priest"],
+      "requires": "|Priest|"
+    },
+    {
+      "name": "Priest level 6",
+      "region": "Main camp",
+      "category": ["Priest"],
+      "requires": "|Progressive level cap| AND |Priest|"
+    },
+    {
+      "name": "Priest level 7",
+      "region": "Main camp",
+      "category": ["Priest"],
+      "requires": "|Progressive level cap| AND |Priest|"
+    },
+    {
+      "name": "Priest level 8",
+      "region": "Citadel",
+      "category": ["Priest"],
+      "requires": "|Progressive level cap| AND |Priest|"
+    },
+    {
+      "name": "Priest level 9",
+      "region": "Citadel",
+      "category": ["Priest"],
+      "requires": "|Progressive level cap| AND |Priest|"
+    },
+    {
+      "name": "Priest level 10",
+      "region": "Dungeon",
+      "category": ["Priest"],
+      "requires": "|Progressive level cap| AND |Priest|"
+    },
+    {
+      "name": "Priest dungeon complete",
+      "region": "Dungeon",
+      "category": ["Priest"],
+      "requires": "|Priest|"
+    },
+    {
+      "name": "Rogue level 1",
+      "region": "Before quillboar",
+      "category": ["Rogue"],
+      "requires": "|Rogue|"
+    },
+    {
+      "name": "Rogue level 2",
+      "region": "Before quillboar",
+      "category": ["Rogue"],
+      "requires": "|Rogue|"
+    },
+    {
+      "name": "Rogue level 3",
+      "region": "Before quillboar",
+      "category": ["Rogue"],
+      "requires": "|Rogue|"
+    },
+    {
+      "name": "Rogue level 4",
+      "region": "Before quillboar",
+      "category": ["Rogue"],
+      "requires": "|Rogue|"
+    },
+    {
+      "name": "Rogue level 5",
+      "region": "Before quillboar",
+      "category": ["Rogue"],
+      "requires": "|Rogue|"
+    },
+    {
+      "name": "Rogue level 6",
+      "region": "Main camp",
+      "category": ["Rogue"],
+      "requires": "|Progressive level cap| AND |Rogue|"
+    },
+    {
+      "name": "Rogue level 7",
+      "region": "Main camp",
+      "category": ["Rogue"],
+      "requires": "|Progressive level cap| AND |Rogue|"
+    },
+    {
+      "name": "Rogue level 8",
+      "region": "Citadel",
+      "category": ["Rogue"],
+      "requires": "|Progressive level cap| AND |Rogue|"
+    },
+    {
+      "name": "Rogue level 9",
+      "region": "Citadel",
+      "category": ["Rogue"],
+      "requires": "|Progressive level cap| AND |Rogue|"
+    },
+    {
+      "name": "Rogue level 10",
+      "region": "Dungeon",
+      "category": ["Rogue"],
+      "requires": "|Progressive level cap| AND |Rogue|"
+    },
+    {
+      "name": "Rogue dungeon complete",
+      "region": "Dungeon",
+      "category": ["Rogue"],
+      "requires": "|Rogue|"
+    },
+    {
+      "name": "Shaman level 1",
+      "region": "Before quillboar",
+      "category": ["Shaman"],
+      "requires": "|Shaman|"
+    },
+    {
+      "name": "Shaman level 2",
+      "region": "Before quillboar",
+      "category": ["Shaman"],
+      "requires": "|Shaman|"
+    },
+    {
+      "name": "Shaman level 3",
+      "region": "Before quillboar",
+      "category": ["Shaman"],
+      "requires": "|Shaman|"
+    },
+    {
+      "name": "Shaman level 4",
+      "region": "Before quillboar",
+      "category": ["Shaman"],
+      "requires": "|Shaman|"
+    },
+    {
+      "name": "Shaman level 5",
+      "region": "Before quillboar",
+      "category": ["Shaman"],
+      "requires": "|Shaman|"
+    },
+    {
+      "name": "Shaman level 6",
+      "region": "Main camp",
+      "category": ["Shaman"],
+      "requires": "|Progressive level cap| AND |Shaman|"
+    },
+    {
+      "name": "Shaman level 7",
+      "region": "Main camp",
+      "category": ["Shaman"],
+      "requires": "|Progressive level cap| AND |Shaman|"
+    },
+    {
+      "name": "Shaman level 8",
+      "region": "Citadel",
+      "category": ["Shaman"],
+      "requires": "|Progressive level cap| AND |Shaman|"
+    },
+    {
+      "name": "Shaman level 9",
+      "region": "Citadel",
+      "category": ["Shaman"],
+      "requires": "|Progressive level cap| AND |Shaman|"
+    },
+    {
+      "name": "Shaman level 10",
+      "region": "Dungeon",
+      "category": ["Shaman"],
+      "requires": "|Progressive level cap| AND |Shaman|"
+    },
+    {
+      "name": "Shaman dungeon complete",
+      "region": "Dungeon",
+      "category": ["Shaman"],
+      "requires": "|Shaman|"
+    },
+    {
+      "name": "Warlock level 1",
+      "region": "Before quillboar",
+      "category": ["Warlock"],
+      "requires": "|Warlock|"
+    },
+    {
+      "name": "Warlock level 2",
+      "region": "Before quillboar",
+      "category": ["Warlock"],
+      "requires": "|Warlock|"
+    },
+    {
+      "name": "Warlock level 3",
+      "region": "Before quillboar",
+      "category": ["Warlock"],
+      "requires": "|Warlock|"
+    },
+    {
+      "name": "Warlock level 4",
+      "region": "Before quillboar",
+      "category": ["Warlock"],
+      "requires": "|Warlock|"
+    },
+    {
+      "name": "Warlock level 5",
+      "region": "Before quillboar",
+      "category": ["Warlock"],
+      "requires": "|Warlock|"
+    },
+    {
+      "name": "Warlock level 6",
+      "region": "Main camp",
+      "category": ["Warlock"],
+      "requires": "|Progressive level cap| AND |Warlock|"
+    },
+    {
+      "name": "Warlock level 7",
+      "region": "Main camp",
+      "category": ["Warlock"],
+      "requires": "|Progressive level cap| AND |Warlock|"
+    },
+    {
+      "name": "Warlock level 8",
+      "region": "Citadel",
+      "category": ["Warlock"],
+      "requires": "|Progressive level cap| AND |Warlock|"
+    },
+    {
+      "name": "Warlock level 9",
+      "region": "Citadel",
+      "category": ["Warlock"],
+      "requires": "|Progressive level cap| AND |Warlock|"
+    },
+    {
+      "name": "Warlock level 10",
+      "region": "Dungeon",
+      "category": ["Warlock"],
+      "requires": "|Progressive level cap| AND |Warlock|"
+    },
+    {
+      "name": "Warlock dungeon complete",
+      "region": "Dungeon",
+      "category": ["Warlock"],
+      "requires": "|Warlock|"
+    },
+    {
+      "name": "Warrior level 1",
+      "region": "Before quillboar",
+      "category": ["Warrior"],
+      "requires": "|Warrior|"
+    },
+    {
+      "name": "Warrior level 2",
+      "region": "Before quillboar",
+      "category": ["Warrior"],
+      "requires": "|Warrior|"
+    },
+    {
+      "name": "Warrior level 3",
+      "region": "Before quillboar",
+      "category": ["Warrior"],
+      "requires": "|Warrior|"
+    },
+    {
+      "name": "Warrior level 4",
+      "region": "Before quillboar",
+      "category": ["Warrior"],
+      "requires": "|Warrior|"
+    },
+    {
+      "name": "Warrior level 5",
+      "region": "Before quillboar",
+      "category": ["Warrior"],
+      "requires": "|Warrior|"
+    },
+    {
+      "name": "Warrior level 6",
+      "region": "Main camp",
+      "category": ["Warrior"],
+      "requires": "|Progressive level cap| AND |Warrior|"
+    },
+    {
+      "name": "Warrior level 7",
+      "region": "Main camp",
+      "category": ["Warrior"],
+      "requires": "|Progressive level cap| AND |Warrior|"
+    },
+    {
+      "name": "Warrior level 8",
+      "region": "Citadel",
+      "category": ["Warrior"],
+      "requires": "|Progressive level cap| AND |Warrior|"
+    },
+    {
+      "name": "Warrior level 9",
+      "region": "Citadel",
+      "category": ["Warrior"],
+      "requires": "|Progressive level cap| AND |Warrior|"
+    },
+    {
+      "name": "Warrior level 10",
+      "region": "Dungeon",
+      "category": ["Warrior"],
+      "requires": "|Progressive level cap| AND |Warrior|"
+    },
+    {
+      "name": "Warrior dungeon complete",
+      "region": "Dungeon",
+      "category": ["Warrior"],
+      "requires": "|Warrior|"
+    },
+    {
+      "name": "goal complete",
+      "region": "Dungeon",
+      "victory": true,
+      "category": "goal",
+      "requires": "{OptionCount(@Class unlock, goal_classes)}"
+    }
+  ]
+}

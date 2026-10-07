@@ -1,0 +1,157 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": "1",
+      "name": "Progressive level cap",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Priest",
+      "category": [
+        "Class unlock",
+        "Priest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Druid",
+      "category": [
+        "Class unlock",
+        "Druid"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Paladin",
+      "category": [
+        "Class unlock",
+        "Paladin"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hunter",
+      "category": [
+        "Class unlock",
+        "Hunter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mage",
+      "category": [
+        "Class unlock",
+        "Mage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Monk",
+      "category": [
+        "Class unlock",
+        "Monk"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rogue",
+      "category": [
+        "Class unlock",
+        "Rogue"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shaman",
+      "category": [
+        "Class unlock",
+        "Shaman"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Warlock",
+      "category": [
+        "Class unlock",
+        "Warlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Warrior",
+      "category": [
+        "Class unlock",
+        "Warrior"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "After quillboar",
+      "category": [
+        "Area unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Unlock harpies",
+      "category": [
+        "Area unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Unlock spiders",
+      "category": [
+        "Area unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Unlock citadel",
+      "category": [
+        "Area unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Unlock dungeon",
+      "category": [
+        "Area unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 8,
+      "name": "Progressive ability bar",
+      "category": [
+        "Bar unlock"
+      ],
+      "helpful": true
+    },
+    {
+      "count": 11,
+      "name": "Progressive ability slot",
+      "category": [
+        "Bar unlock"
+      ],
+      "helpful": true
+    }
+  ]
+}

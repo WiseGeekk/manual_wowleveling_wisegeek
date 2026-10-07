@@ -1,0 +1,32 @@
+{
+  "Druid": {
+    "yaml_option": ["Enable Druid"]
+  },
+  "Hunter": {
+    "yaml_option": ["Enable Hunter"]
+  },
+  "Mage": {
+    "yaml_option": ["Enable Mage"]
+  },
+  "Monk": {
+    "yaml_option": ["Enable Monk"]
+  },
+  "Paladin": {
+    "yaml_option": ["Enable Paladin"]
+  },
+  "Priest": {
+    "yaml_option": ["Enable Priest"]
+  },
+  "Rogue": {
+    "yaml_option": ["Enable Rogue"]
+  },
+  "Shaman": {
+    "yaml_option": ["Enable Shaman"]
+  },
+  "Warlock": {
+    "yaml_option": ["Enable Warlock"]
+  },
+  "Warrior": {
+    "yaml_option": ["Enable Warrior"]
+  }
+}

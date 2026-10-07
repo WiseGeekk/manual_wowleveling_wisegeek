@@ -1,0 +1,34 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Before quillboar": {
+    "starting": true,
+    "connects_to": ["Main camp"],
+    "requires": ""
+  },
+  "Main camp": {
+    "connects_to": [
+      "Harpy roost",
+      "Hruns barrow",
+      "Citadel"
+    ],
+    "requires": "|After quillboar| AND |Progressive level cap|"
+  },
+  "Harpy roost": {
+    "connects_to": [],
+    "requires": "|Unlock harpies|"
+  },
+  "Hruns barrow": {
+    "connects_to": [],
+    "requires": "|Unlock spiders|"
+  },
+  "Citadel": {
+    "connects_to": [
+      "Dungeon"
+    ],
+    "requires": "|Unlock citadel| AND |Unlock harpies| AND |Unlock spiders|"
+  },
+  "Dungeon": {
+    "connects_to": [],
+    "requires": "|Unlock dungeon|"
+  }
+}
