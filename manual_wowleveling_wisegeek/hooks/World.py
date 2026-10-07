@@ -82,22 +82,30 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     start_class = get_option_value(multiworld, player, "Start_class")
 
     # Expansion mapping + allowed expansions for filtering
-    class_map = {
-        "Druid":0,
-        "Hunter":1,
-        "Mage":2,
-        "Monk":3,
-        "Paladin":4,
-        "Priest":5,
-        "Rogue":6,
-        "Shaman":7,
-        "Warlock":8,
-        "Warrior":9
-    }
+    class_map = [
+        "Druid",
+        "Hunter",
+        "Mage",
+        "Monk",
+        "Paladin",
+        "Priest",
+        "Rogue",
+        "Shaman",
+        "Warlock",
+        "Warrior"
+    ]
+
+    if isinstance(start_class, dict):
+        start_class = start_class["Start_class"]
+
+    if isinstance(start_class, int):
+        start_class = class_map[start_class]
 
     for item in item_pool:
         if item.name == start_class:
             multiworld.push_precollected(item)
+            remove_specific_item(item_pool, item)
+            break
 
     return item_pool
 
