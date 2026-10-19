@@ -2,10 +2,22 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
   "data": [
     {
-      "count": "1",
+      "count": 1,
       "name": "Progressive level cap",
-      "category": [],
+      "category": ["Level increase"],
       "progression": true
+    },
+    {
+      "count": 2,
+      "name": "Progressive mount",
+      "category": ["Mount usage"],
+      "helpful": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive heirloom slots",
+      "category": ["heirloom slots unlocked:"],
+      "helpful": true
     },
     {
       "count": 1,
@@ -99,42 +111,8 @@
     },
     {
       "count": 1,
-      "name": "After quillboar",
-      "category": [
-        "Area unlock"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Unlock harpies",
-      "category": [
-        "Area unlock"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Unlock spiders",
-      "category": [
-        "Area unlock"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Unlock citadel",
-      "category": [
-        "Area unlock"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Unlock dungeon",
-      "category": [
-        "Area unlock"
-      ],
+      "name": "Progressive exiles reach",
+      "category": ["Area unlock"],
       "progression": true
     },
     {

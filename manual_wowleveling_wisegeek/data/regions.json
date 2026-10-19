@@ -11,24 +11,24 @@
       "Hruns barrow",
       "Citadel"
     ],
-    "requires": "|After quillboar| AND |Progressive level cap|"
-  },
-  "Harpy roost": {
-    "connects_to": [],
-    "requires": "|Unlock harpies|"
+    "requires": "{ItemValue(Progressive area unlock:1)} AND {ItemValue(Progressive level cap:1)}"
   },
   "Hruns barrow": {
     "connects_to": [],
-    "requires": "|Unlock spiders|"
+    "requires": "{ItemValue(Progressive area unlock:2)}"
+  },
+  "Harpy roost": {
+    "connects_to": [],
+    "requires": "{ItemValue(Progressive area unlock:3)}"
   },
   "Citadel": {
     "connects_to": [
       "Dungeon"
     ],
-    "requires": "|Unlock citadel| AND |Unlock harpies| AND |Unlock spiders|"
+    "requires": "{ItemValue(Progressive area unlock:4)}"
   },
   "Dungeon": {
     "connects_to": [],
-    "requires": "|Unlock dungeon|"
+    "requires": "{ItemValue(Progressive area unlock:5)}"
   }
 }
