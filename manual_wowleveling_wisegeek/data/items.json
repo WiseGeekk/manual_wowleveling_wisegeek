@@ -1,22 +1,81 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
   "data": [
-    {
-      "count": 1,
-      "name": "Progressive level cap",
-      "category": ["Level increase"],
-      "progression": true
-    },
+
+  {
+    "count": 1,
+    "name": "Progressive level cap Druid",
+    "category": ["Level increase", "Druid"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive level cap Hunter",
+    "category": ["Level increase", "Hunter"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive level cap Mage",
+    "category": ["Level increase", "Mage"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive level cap Monk",
+    "category": ["Level increase", "Monk"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive level cap Paladin",
+    "category": ["Level increase", "Paladin"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive level cap Priest",
+    "category": ["Level increase", "Priest"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive level cap Rogue",
+    "category": ["Level increase", "Rogue"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive level cap Shaman",
+    "category": ["Level increase", "Shaman"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive level cap Warlock",
+    "category": ["Level increase", "Warlock"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Progressive level cap Warrior",
+    "category": ["Level increase", "Warrior"],
+    "progression": true
+  },
     {
       "count": 2,
       "name": "Progressive mount",
-      "category": ["Mount usage"],
+      "category": [
+        "Mount usage"
+      ],
       "helpful": true
     },
     {
       "count": 7,
       "name": "Progressive heirloom slots",
-      "category": ["heirloom slots unlocked:"],
+      "category": [
+        "heirloom slots unlocked:"
+      ],
       "helpful": true
     },
     {
@@ -110,9 +169,93 @@
       "progression": true
     },
     {
-      "count": 1,
-      "name": "Progressive exiles reach",
-      "category": ["Area unlock"],
+      "count": 5,
+      "name": "Progressive exiles reach Druid",
+      "category": [
+        "Area unlock",
+        "Druid"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive exiles reach Hunter",
+      "category": [
+        "Area unlock",
+        "Hunter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive exiles reach Mage",
+      "category": [
+        "Area unlock",
+        "Mage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive exiles reach Monk",
+      "category": [
+        "Area unlock",
+        "Monk"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive exiles reach Paladin",
+      "category": [
+        "Area unlock",
+        "Paladin"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive exiles reach Priest",
+      "category": [
+        "Area unlock",
+        "Priest"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive exiles reach Rogue",
+      "category": [
+        "Area unlock",
+        "Rogue"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive exiles reach Shaman",
+      "category": [
+        "Area unlock",
+        "Shaman"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive exiles reach Warlock",
+      "category": [
+        "Area unlock",
+        "Warlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive exiles reach Warrior",
+      "category": [
+        "Area unlock",
+        "Warrior"
+      ],
       "progression": true
     },
     {
