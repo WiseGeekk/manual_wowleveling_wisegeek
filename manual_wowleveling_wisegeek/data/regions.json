@@ -2,7 +2,17 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
   "Before quillboar": {
     "starting": true,
-    "connects_to": ["Main camp"],
+    "connects_to": [
+  "Main camp Druid",
+  "Main camp Hunter",
+  "Main camp Mage",
+  "Main camp Monk",
+  "Main camp Paladin",
+  "Main camp Priest",
+  "Main camp Rogue",
+  "Main camp Shaman",
+  "Main camp Warlock",
+  "Main camp Warrior"],
     "requires": ""
   },
   "Main camp Druid": {
