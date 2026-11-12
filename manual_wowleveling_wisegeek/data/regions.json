@@ -22,25 +22,25 @@
       "Hruns barrow Druid",
       "Citadel Druid"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Druid:1)} AND {ItemValue(Progressive level cap Druid:1)}"
+    "requires": "|Progressive exiles reach Druid:1| AND |Progressive level cap Druid:1|"
   },
   "Hruns barrow Druid": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Druid:2)}"
+    "requires": "|Progressive exiles reach Druid:2|"
   },
   "Harpy roost Druid": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Druid:3)}"
+    "requires": "|Progressive exiles reach Druid:3|"
   },
   "Citadel Druid": {
     "connects_to": [
       "Dungeon Druid"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Druid:4)}"
+    "requires": "|Progressive exiles reach Druid:4|"
   },
   "Dungeon Druid": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Druid:5)}"
+    "requires": "|Progressive exiles reach Druid:5|"
   },
   "Main camp Hunter": {
     "connects_to": [
@@ -48,25 +48,25 @@
       "Hruns barrow Hunter",
       "Citadel Hunter"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Hunter:1)} AND {ItemValue(Progressive level cap Hunter:1)}"
+    "requires": "|Progressive exiles reach Hunter:1| AND |Progressive level cap Hunter:1|"
   },
   "Hruns barrow Hunter": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Hunter:2)}"
+    "requires": "|Progressive exiles reach Hunter:2|"
   },
   "Harpy roost Hunter": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Hunter:3)}"
+    "requires": "|Progressive exiles reach Hunter:3|"
   },
   "Citadel Hunter": {
     "connects_to": [
       "Dungeon Hunter"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Hunter:4)}"
+    "requires": "|Progressive exiles reach Hunter:4|"
   },
   "Dungeon Hunter": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Hunter:5)}"
+    "requires": "|Progressive exiles reach Hunter:5|"
   },
   "Main camp Mage": {
     "connects_to": [
@@ -74,25 +74,25 @@
       "Hruns barrow Mage",
       "Citadel Mage"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Mage:1)} AND {ItemValue(Progressive level cap Mage:1)}"
+    "requires": "|Progressive exiles reach Mage:1| AND |Progressive level cap Mage:1|"
   },
   "Hruns barrow Mage": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Mage:2)}"
+    "requires": "|Progressive exiles reach Mage:2|"
   },
   "Harpy roost Mage": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Mage:3)}"
+    "requires": "|Progressive exiles reach Mage:3|"
   },
   "Citadel Mage": {
     "connects_to": [
       "Dungeon Mage"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Mage:4)}"
+    "requires": "|Progressive exiles reach Mage:4|"
   },
   "Dungeon Mage": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Mage:5)}"
+    "requires": "|Progressive exiles reach Mage:5|"
   },
   "Main camp Monk": {
     "connects_to": [
@@ -100,25 +100,25 @@
       "Hruns barrow Monk",
       "Citadel Monk"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Monk:1)} AND {ItemValue(Progressive level cap Monk:1)}"
+    "requires": "|Progressive exiles reach Monk:1| AND |Progressive level cap Monk:1|"
   },
   "Hruns barrow Monk": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Monk:2)}"
+    "requires": "|Progressive exiles reach Monk:2|"
   },
   "Harpy roost Monk": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Monk:3)}"
+    "requires": "|Progressive exiles reach Monk:3|"
   },
   "Citadel Monk": {
     "connects_to": [
       "Dungeon Monk"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Monk:4)}"
+    "requires": "|Progressive exiles reach Monk:4|"
   },
   "Dungeon Monk": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Monk:5)}"
+    "requires": "|Progressive exiles reach Monk:5|"
   },
   "Main camp Paladin": {
     "connects_to": [
@@ -126,25 +126,25 @@
       "Hruns barrow Paladin",
       "Citadel Paladin"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Paladin:1)} AND {ItemValue(Progressive level cap Paladin:1)}"
+    "requires": "|Progressive exiles reach Paladin:1| AND |Progressive level cap Paladin:1|"
   },
   "Hruns barrow Paladin": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Paladin:2)}"
+    "requires": "|Progressive exiles reach Paladin:2|"
   },
   "Harpy roost Paladin": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Paladin:3)}"
+    "requires": "|Progressive exiles reach Paladin:3|"
   },
   "Citadel Paladin": {
     "connects_to": [
       "Dungeon Paladin"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Paladin:4)}"
+    "requires": "|Progressive exiles reach Paladin:4|"
   },
   "Dungeon Paladin": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Paladin:5)}"
+    "requires": "|Progressive exiles reach Paladin:5|"
   },
   "Main camp Priest": {
     "connects_to": [
@@ -152,25 +152,25 @@
       "Hruns barrow Priest",
       "Citadel Priest"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Priest:1)} AND {ItemValue(Progressive level cap Priest:1)}"
+    "requires": "|Progressive exiles reach Priest:1| AND |Progressive level cap Priest:1|"
   },
   "Hruns barrow Priest": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Priest:2)}"
+    "requires": "|Progressive exiles reach Priest:2|"
   },
   "Harpy roost Priest": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Priest:3)}"
+    "requires": "|Progressive exiles reach Priest:3|"
   },
   "Citadel Priest": {
     "connects_to": [
       "Dungeon Priest"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Priest:4)}"
+    "requires": "|Progressive exiles reach Priest:4|"
   },
   "Dungeon Priest": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Priest:5)}"
+    "requires": "|Progressive exiles reach Priest:5|"
   },
   "Main camp Rogue": {
     "connects_to": [
@@ -178,25 +178,25 @@
       "Hruns barrow Rogue",
       "Citadel Rogue"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Rogue:1)} AND {ItemValue(Progressive level cap Rogue:1)}"
+    "requires": "|Progressive exiles reach Rogue:1| AND |Progressive level cap Rogue:1|"
   },
   "Hruns barrow Rogue": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Rogue:2)}"
+    "requires": "|Progressive exiles reach Rogue:2|"
   },
   "Harpy roost Rogue": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Rogue:3)}"
+    "requires": "|Progressive exiles reach Rogue:3|"
   },
   "Citadel Rogue": {
     "connects_to": [
       "Dungeon Rogue"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Rogue:4)}"
+    "requires": "|Progressive exiles reach Rogue:4|"
   },
   "Dungeon Rogue": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Rogue:5)}"
+    "requires": "|Progressive exiles reach Rogue:5|"
   },
   "Main camp Shaman": {
     "connects_to": [
@@ -204,25 +204,25 @@
       "Hruns barrow Shaman",
       "Citadel Shaman"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Shaman:1)} AND {ItemValue(Progressive level cap Shaman:1)}"
+    "requires": "|Progressive exiles reach Shaman:1| AND |Progressive level cap Shaman:1|"
   },
   "Hruns barrow Shaman": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Shaman:2)}"
+    "requires": "|Progressive exiles reach Shaman:2|"
   },
   "Harpy roost Shaman": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Shaman:3)}"
+    "requires": "|Progressive exiles reach Shaman:3|"
   },
   "Citadel Shaman": {
     "connects_to": [
       "Dungeon Shaman"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Shaman:4)}"
+    "requires": "|Progressive exiles reach Shaman:4|"
   },
   "Dungeon Shaman": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Shaman:5)}"
+    "requires": "|Progressive exiles reach Shaman:5|"
   },
   "Main camp Warlock": {
     "connects_to": [
@@ -230,25 +230,25 @@
       "Hruns barrow Warlock",
       "Citadel Warlock"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Warlock:1)} AND {ItemValue(Progressive level cap Warlock:1)}"
+    "requires": "|Progressive exiles reach Warlock:1| AND |Progressive level cap Warlock:1|"
   },
   "Hruns barrow Warlock": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Warlock:2)}"
+    "requires": "|Progressive exiles reach Warlock:2|"
   },
   "Harpy roost Warlock": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Warlock:3)}"
+    "requires": "|Progressive exiles reach Warlock:3|"
   },
   "Citadel Warlock": {
     "connects_to": [
       "Dungeon Warlock"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Warlock:4)}"
+    "requires": "|Progressive exiles reach Warlock:4|"
   },
   "Dungeon Warlock": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Warlock:5)}"
+    "requires": "|Progressive exiles reach Warlock:5|"
   },
 
   "Main camp Warrior": {
@@ -257,25 +257,25 @@
       "Hruns barrow Warrior",
       "Citadel Warrior"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Warrior:1)} AND {ItemValue(Progressive level cap Warrior:1)}"
+    "requires": "|Progressive exiles reach Warrior:1| AND |Progressive level cap Warrior:1|"
   },
   "Hruns barrow Warrior": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Warrior:2)}"
+    "requires": "|Progressive exiles reach Warrior:2|"
   },
   "Harpy roost Warrior": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Warrior:3)}"
+    "requires": "|Progressive exiles reach Warrior:3|"
   },
   "Citadel Warrior": {
     "connects_to": [
       "Dungeon Warrior"
     ],
-    "requires": "{ItemValue(Progressive exiles reach Warrior:4)}"
+    "requires": "|Progressive exiles reach Warrior:4|"
   },
   "Dungeon Warrior": {
     "connects_to": [],
-    "requires": "{ItemValue(Progressive exiles reach Warrior:5)}"
+    "requires": "|Progressive exiles reach Warrior:5|"
   },
   "goal": {
     "connects_to": [],
