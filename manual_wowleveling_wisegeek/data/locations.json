@@ -8,7 +8,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Murloc quests complete Druid",
@@ -17,7 +17,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Abandoned camp quests complete Druid",
@@ -26,7 +26,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "First class quests complete Druid",
@@ -35,7 +35,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Quillboar quests complete Druid",
@@ -44,7 +44,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Camp established Druid",
@@ -53,7 +53,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Spider Quests complete Druid",
@@ -62,7 +62,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Second class quests complete Druid",
@@ -71,7 +71,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Harpy quests complete Druid",
@@ -80,7 +80,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Freeing the light complete Druid",
@@ -89,7 +89,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Chest by beach Druid",
@@ -98,7 +98,7 @@
         "Misc",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Gork the basher defeated Druid",
@@ -107,16 +107,16 @@
         "Misc",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Chest right of leaving quillboars Druid",
-      "region": "Main camp Druid",
+      "region": "Before quillboar",
       "category": [
         "Misc",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Chest by totem in harpy roost Druid",
@@ -125,7 +125,7 @@
         "Misc",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Ogre taskmaster defeated Druid",
@@ -134,7 +134,7 @@
         "Misc",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Killclaw the terrible quest complete Druid",
@@ -143,7 +143,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Citadel Chest Druid",
@@ -152,7 +152,7 @@
         "Misc",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Citadel quests complete Druid",
@@ -161,7 +161,7 @@
         "Quests",
         "Druid"
       ],
-      "requires": ""
+      "requires": "|Druid:1|"
     },
     {
       "name": "Ship quests complete Hunter",
@@ -170,7 +170,7 @@
         "Quests",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Murloc quests complete Hunter",
@@ -179,7 +179,7 @@
         "Quests",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Abandoned camp quests complete Hunter",
@@ -188,7 +188,7 @@
         "Quests",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "First class quests complete Hunter",
@@ -197,7 +197,7 @@
         "Quests",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Quillboar quests complete Hunter",
@@ -206,7 +206,7 @@
         "Quests",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Camp established Hunter",
@@ -215,7 +215,7 @@
         "Quests",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Spider Quests complete Hunter",
@@ -224,7 +224,7 @@
         "Quests",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Second class quests complete Hunter",
@@ -233,7 +233,7 @@
         "Quests",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Harpy quests complete Hunter",
@@ -242,7 +242,7 @@
         "Quests",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Freeing the light complete Hunter",
@@ -251,7 +251,7 @@
         "Quests",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Chest by beach Hunter",
@@ -260,7 +260,7 @@
         "Misc",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Gork the basher defeated Hunter",
@@ -269,16 +269,16 @@
         "Misc",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Chest right of leaving quillboars Hunter",
-      "region": "Main camp Hunter",
+      "region": "Before quillboar",
       "category": [
         "Misc",
         "Hunter"
       ],
-      "requires": ""
+      "requires": "|Hunter:1|"
     },
     {
       "name": "Chest by totem in harpy roost Hunter",
@@ -332,7 +332,7 @@
         "Quests",
         "Mage"
       ],
-      "requires": ""
+      "requires": "|Mage:1|"
     },
     {
       "name": "Murloc quests complete Mage",
@@ -341,7 +341,7 @@
         "Quests",
         "Mage"
       ],
-      "requires": ""
+      "requires": "|Mage:1|"
     },
     {
       "name": "Abandoned camp quests complete Mage",
@@ -350,7 +350,7 @@
         "Quests",
         "Mage"
       ],
-      "requires": ""
+      "requires": "|Mage:1|"
     },
     {
       "name": "First class quests complete Mage",
@@ -359,7 +359,7 @@
         "Quests",
         "Mage"
       ],
-      "requires": ""
+      "requires": "|Mage:1|"
     },
     {
       "name": "Quillboar quests complete Mage",
@@ -368,7 +368,7 @@
         "Quests",
         "Mage"
       ],
-      "requires": ""
+      "requires": "|Mage:1|"
     },
     {
       "name": "Camp established Mage",
@@ -422,7 +422,7 @@
         "Misc",
         "Mage"
       ],
-      "requires": ""
+      "requires": "|Mage:1|"
     },
     {
       "name": "Gork the basher defeated Mage",
@@ -431,16 +431,16 @@
         "Misc",
         "Mage"
       ],
-      "requires": ""
+      "requires": "|Mage:1|"
     },
     {
       "name": "Chest right of leaving quillboars Mage",
-      "region": "Main camp Mage",
+      "region": "Before quillboar",
       "category": [
         "Misc",
         "Mage"
       ],
-      "requires": ""
+      "requires": "|Mage:1|"
     },
     {
       "name": "Chest by totem in harpy roost Mage",
@@ -494,7 +494,7 @@
         "Quests",
         "Monk"
       ],
-      "requires": ""
+      "requires": "|Monk:1|"
     },
     {
       "name": "Murloc quests complete Monk",
@@ -503,7 +503,7 @@
         "Quests",
         "Monk"
       ],
-      "requires": ""
+      "requires": "|Monk:1|"
     },
     {
       "name": "Abandoned camp quests complete Monk",
@@ -512,7 +512,7 @@
         "Quests",
         "Monk"
       ],
-      "requires": ""
+      "requires": "|Monk:1|"
     },
     {
       "name": "First class quests complete Monk",
@@ -521,7 +521,7 @@
         "Quests",
         "Monk"
       ],
-      "requires": ""
+      "requires": "|Monk:1|"
     },
     {
       "name": "Quillboar quests complete Monk",
@@ -530,7 +530,7 @@
         "Quests",
         "Monk"
       ],
-      "requires": ""
+      "requires": "|Monk:1|"
     },
     {
       "name": "Camp established Monk",
@@ -584,7 +584,7 @@
         "Misc",
         "Monk"
       ],
-      "requires": ""
+      "requires": "|Monk:1|"
     },
     {
       "name": "Gork the basher defeated Monk",
@@ -593,16 +593,16 @@
         "Misc",
         "Monk"
       ],
-      "requires": ""
+      "requires": "|Monk:1|"
     },
     {
       "name": "Chest right of leaving quillboars Monk",
-      "region": "Main camp Monk",
+      "region": "Before quillboar",
       "category": [
         "Misc",
         "Monk"
       ],
-      "requires": ""
+      "requires": "|Monk:1|"
     },
     {
       "name": "Chest by totem in harpy roost Monk",
@@ -656,7 +656,7 @@
         "Quests",
         "Paladin"
       ],
-      "requires": ""
+      "requires": "|Paladin:1|"
     },
     {
       "name": "Murloc quests complete Paladin",
@@ -665,7 +665,7 @@
         "Quests",
         "Paladin"
       ],
-      "requires": ""
+      "requires": "|Paladin:1|"
     },
     {
       "name": "Abandoned camp quests complete Paladin",
@@ -674,7 +674,7 @@
         "Quests",
         "Paladin"
       ],
-      "requires": ""
+      "requires": "|Paladin:1|"
     },
     {
       "name": "First class quests complete Paladin",
@@ -683,7 +683,7 @@
         "Quests",
         "Paladin"
       ],
-      "requires": ""
+      "requires": "|Paladin:1|"
     },
     {
       "name": "Quillboar quests complete Paladin",
@@ -692,7 +692,7 @@
         "Quests",
         "Paladin"
       ],
-      "requires": ""
+      "requires": "|Paladin:1|"
     },
     {
       "name": "Camp established Paladin",
@@ -746,7 +746,7 @@
         "Misc",
         "Paladin"
       ],
-      "requires": ""
+      "requires": "|Paladin:1|"
     },
     {
       "name": "Gork the basher defeated Paladin",
@@ -755,16 +755,16 @@
         "Misc",
         "Paladin"
       ],
-      "requires": ""
+      "requires": "|Paladin:1|"
     },
     {
       "name": "Chest right of leaving quillboars Paladin",
-      "region": "Main camp Paladin",
+      "region": "Before quillboar",
       "category": [
         "Misc",
         "Paladin"
       ],
-      "requires": ""
+      "requires": "|Paladin:1|"
     },
     {
       "name": "Chest by totem in harpy roost Paladin",
@@ -818,7 +818,7 @@
         "Quests",
         "Priest"
       ],
-      "requires": ""
+      "requires": "|Priest:1|"
     },
     {
       "name": "Murloc quests complete Priest",
@@ -827,7 +827,7 @@
         "Quests",
         "Priest"
       ],
-      "requires": ""
+      "requires": "|Priest:1|"
     },
     {
       "name": "Abandoned camp quests complete Priest",
@@ -836,7 +836,7 @@
         "Quests",
         "Priest"
       ],
-      "requires": ""
+      "requires": "|Priest:1|"
     },
     {
       "name": "First class quests complete Priest",
@@ -845,7 +845,7 @@
         "Quests",
         "Priest"
       ],
-      "requires": ""
+      "requires": "|Priest:1|"
     },
     {
       "name": "Quillboar quests complete Priest",
@@ -854,7 +854,7 @@
         "Quests",
         "Priest"
       ],
-      "requires": ""
+      "requires": "|Priest:1|"
     },
     {
       "name": "Camp established Priest",
@@ -908,7 +908,7 @@
         "Misc",
         "Priest"
       ],
-      "requires": ""
+      "requires": "|Priest:1|"
     },
     {
       "name": "Gork the basher defeated Priest",
@@ -917,16 +917,16 @@
         "Misc",
         "Priest"
       ],
-      "requires": ""
+      "requires": "|Priest:1|"
     },
     {
       "name": "Chest right of leaving quillboars Priest",
-      "region": "Main camp Priest",
+      "region": "Before quillboar",
       "category": [
         "Misc",
         "Priest"
       ],
-      "requires": ""
+      "requires": "|Priest:1|"
     },
     {
       "name": "Chest by totem in harpy roost Priest",
@@ -980,7 +980,7 @@
         "Quests",
         "Rogue"
       ],
-      "requires": ""
+      "requires": "|Rogue:1|"
     },
     {
       "name": "Murloc quests complete Rogue",
@@ -989,7 +989,7 @@
         "Quests",
         "Rogue"
       ],
-      "requires": ""
+      "requires": "|Rogue:1|"
     },
     {
       "name": "Abandoned camp quests complete Rogue",
@@ -998,7 +998,7 @@
         "Quests",
         "Rogue"
       ],
-      "requires": ""
+      "requires": "|Rogue:1|"
     },
     {
       "name": "First class quests complete Rogue",
@@ -1007,7 +1007,7 @@
         "Quests",
         "Rogue"
       ],
-      "requires": ""
+      "requires": "|Rogue:1|"
     },
     {
       "name": "Quillboar quests complete Rogue",
@@ -1016,7 +1016,7 @@
         "Quests",
         "Rogue"
       ],
-      "requires": ""
+      "requires": "|Rogue:1|"
     },
     {
       "name": "Camp established Rogue",
@@ -1070,7 +1070,7 @@
         "Misc",
         "Rogue"
       ],
-      "requires": ""
+      "requires": "|Rogue:1|"
     },
     {
       "name": "Gork the basher defeated Rogue",
@@ -1079,16 +1079,16 @@
         "Misc",
         "Rogue"
       ],
-      "requires": ""
+      "requires": "|Rogue:1|"
     },
     {
       "name": "Chest right of leaving quillboars Rogue",
-      "region": "Main camp Rogue",
+      "region": "Before quillboar",
       "category": [
         "Misc",
         "Rogue"
       ],
-      "requires": ""
+      "requires": "|Rogue:1|"
     },
     {
       "name": "Chest by totem in harpy roost Rogue",
@@ -1142,7 +1142,7 @@
         "Quests",
         "Shaman"
       ],
-      "requires": ""
+      "requires": "|Shaman:1|"
     },
     {
       "name": "Murloc quests complete Shaman",
@@ -1151,7 +1151,7 @@
         "Quests",
         "Shaman"
       ],
-      "requires": ""
+      "requires": "|Shaman:1|"
     },
     {
       "name": "Abandoned camp quests complete Shaman",
@@ -1160,7 +1160,7 @@
         "Quests",
         "Shaman"
       ],
-      "requires": ""
+      "requires": "|Shaman:1|"
     },
     {
       "name": "First class quests complete Shaman",
@@ -1169,7 +1169,7 @@
         "Quests",
         "Shaman"
       ],
-      "requires": ""
+      "requires": "|Shaman:1|"
     },
     {
       "name": "Quillboar quests complete Shaman",
@@ -1178,7 +1178,7 @@
         "Quests",
         "Shaman"
       ],
-      "requires": ""
+      "requires": "|Shaman:1|"
     },
     {
       "name": "Camp established Shaman",
@@ -1232,7 +1232,7 @@
         "Misc",
         "Shaman"
       ],
-      "requires": ""
+      "requires": "|Shaman:1|"
     },
     {
       "name": "Gork the basher defeated Shaman",
@@ -1241,16 +1241,16 @@
         "Misc",
         "Shaman"
       ],
-      "requires": ""
+      "requires": "|Shaman:1|"
     },
     {
       "name": "Chest right of leaving quillboars Shaman",
-      "region": "Main camp Shaman",
+      "region": "Before quillboar",
       "category": [
         "Misc",
         "Shaman"
       ],
-      "requires": ""
+      "requires": "|Shaman:1|"
     },
     {
       "name": "Chest by totem in harpy roost Shaman",
@@ -1304,7 +1304,7 @@
         "Quests",
         "Warlock"
       ],
-      "requires": ""
+      "requires": "|Warlock:1|"
     },
     {
       "name": "Murloc quests complete Warlock",
@@ -1313,7 +1313,7 @@
         "Quests",
         "Warlock"
       ],
-      "requires": ""
+      "requires": "|Warlock:1|"
     },
     {
       "name": "Abandoned camp quests complete Warlock",
@@ -1322,7 +1322,7 @@
         "Quests",
         "Warlock"
       ],
-      "requires": ""
+      "requires": "|Warlock:1|"
     },
     {
       "name": "First class quests complete Warlock",
@@ -1331,7 +1331,7 @@
         "Quests",
         "Warlock"
       ],
-      "requires": ""
+      "requires": "|Warlock:1|"
     },
     {
       "name": "Quillboar quests complete Warlock",
@@ -1340,7 +1340,7 @@
         "Quests",
         "Warlock"
       ],
-      "requires": ""
+      "requires": "|Warlock:1|"
     },
     {
       "name": "Camp established Warlock",
@@ -1394,7 +1394,7 @@
         "Misc",
         "Warlock"
       ],
-      "requires": ""
+      "requires": "|Warlock:1|"
     },
     {
       "name": "Gork the basher defeated Warlock",
@@ -1403,16 +1403,16 @@
         "Misc",
         "Warlock"
       ],
-      "requires": ""
+      "requires": "|Warlock:1|"
     },
     {
       "name": "Chest right of leaving quillboars Warlock",
-      "region": "Main camp Warlock",
+      "region": "Before quillboar",
       "category": [
         "Misc",
         "Warlock"
       ],
-      "requires": ""
+      "requires": "|Warlock:1|"
     },
     {
       "name": "Chest by totem in harpy roost Warlock",
@@ -1466,7 +1466,7 @@
         "Quests",
         "Warrior"
       ],
-      "requires": ""
+      "requires": "|Warrior:1|"
     },
     {
       "name": "Murloc quests complete Warrior",
@@ -1475,7 +1475,7 @@
         "Quests",
         "Warrior"
       ],
-      "requires": ""
+      "requires": "|Warrior:1|"
     },
     {
       "name": "Abandoned camp quests complete Warrior",
@@ -1484,7 +1484,7 @@
         "Quests",
         "Warrior"
       ],
-      "requires": ""
+      "requires": "|Warrior:1|"
     },
     {
       "name": "First class quests complete Warrior",
@@ -1493,7 +1493,7 @@
         "Quests",
         "Warrior"
       ],
-      "requires": ""
+      "requires": "|Warrior:1|"
     },
     {
       "name": "Quillboar quests complete Warrior",
@@ -1502,7 +1502,7 @@
         "Quests",
         "Warrior"
       ],
-      "requires": ""
+      "requires": "|Warrior:1|"
     },
     {
       "name": "Camp established Warrior",
@@ -1556,7 +1556,7 @@
         "Misc",
         "Warrior"
       ],
-      "requires": ""
+      "requires": "|Warrior:1|"
     },
     {
       "name": "Gork the basher defeated Warrior",
@@ -1565,16 +1565,16 @@
         "Misc",
         "Warrior"
       ],
-      "requires": ""
+      "requires": "|Warrior:1|"
     },
     {
       "name": "Chest right of leaving quillboars Warrior",
-      "region": "Main camp Warrior",
+      "region": "Before quillboar",
       "category": [
         "Misc",
         "Warrior"
       ],
-      "requires": ""
+      "requires": "|Warrior:1|"
     },
     {
       "name": "Chest by totem in harpy roost Warrior",
