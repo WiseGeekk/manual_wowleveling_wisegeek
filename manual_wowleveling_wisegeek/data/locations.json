@@ -2,1700 +2,2511 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
   "data": [
     {
-    "name": "Ship quests complete Druid",
-    "region": "Before quillboar Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Murloc quests complete Druid",
-    "region": "Before quillboar Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Abandoned camp quests complete Druid",
-    "region": "Before quillboar Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "First class quests complete Druid",
-    "region": "Before quillboar Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Quillboar quests complete Druid",
-    "region": "Before quillboar Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Camp established Druid",
-    "region": "Main camp Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Spider Quests complete Druid",
-    "region": "Hruns barrow Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Second class quests complete Druid",
-    "region": "Hruns barrow Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Harpy quests complete Druid",
-    "region": "Harpy roost Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Freeing the light complete Druid",
-    "region": "Main camp Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by beach Druid",
-    "region": "Before quillboar Druid",
-    "category": ["Misc", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Gork the basher defeated Druid",
-    "region": "Before quillboar Druid",
-    "category": ["Misc", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Chest right of leaving quillboars Druid",
-    "region": "Main camp Druid",
-    "category": ["Misc", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by totem in harpy roost Druid",
-    "region": "Harpy roost Druid",
-    "category": ["Misc", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Ogre taskmaster defeated Druid",
-    "region": "Harpy roost Druid",
-    "category": ["Misc", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Killclaw the terrible quest complete Druid",
-    "region": "Citadel Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel Chest Druid",
-    "region": "Citadel Druid",
-    "category": ["Misc", "Druid"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel quests complete Druid",
-    "region": "Citadel Druid",
-    "category": ["Quests", "Druid"],
-    "requires": ""
-  },
-
-  {
-    "name": "Ship quests complete Hunter",
-    "region": "Before quillboar Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Murloc quests complete Hunter",
-    "region": "Before quillboar Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Abandoned camp quests complete Hunter",
-    "region": "Before quillboar Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "First class quests complete Hunter",
-    "region": "Before quillboar Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Quillboar quests complete Hunter",
-    "region": "Before quillboar Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Camp established Hunter",
-    "region": "Main camp Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Spider Quests complete Hunter",
-    "region": "Hruns barrow Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Second class quests complete Hunter",
-    "region": "Harpy roost Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Harpy quests complete Hunter",
-    "region": "Harpy roost Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Freeing the light complete Hunter",
-    "region": "Main camp Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by beach Hunter",
-    "region": "Before quillboar Hunter",
-    "category": ["Misc", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Gork the basher defeated Hunter",
-    "region": "Before quillboar Hunter",
-    "category": ["Misc", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Chest right of leaving quillboars Hunter",
-    "region": "Main camp Hunter",
-    "category": ["Misc", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by totem in harpy roost Hunter",
-    "region": "Harpy roost Hunter",
-    "category": ["Misc", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Ogre taskmaster defeated Hunter",
-    "region": "Harpy roost Hunter",
-    "category": ["Misc", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Killclaw the terrible quest complete Hunter",
-    "region": "Citadel Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel Chest Hunter",
-    "region": "Citadel Hunter",
-    "category": ["Misc", "Hunter"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel quests complete Hunter",
-    "region": "Citadel Hunter",
-    "category": ["Quests", "Hunter"],
-    "requires": ""
-  },
-
-  {
-    "name": "Ship quests complete Mage",
-    "region": "Before quillboar Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Murloc quests complete Mage",
-    "region": "Before quillboar Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Abandoned camp quests complete Mage",
-    "region": "Before quillboar Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "First class quests complete Mage",
-    "region": "Before quillboar Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Quillboar quests complete Mage",
-    "region": "Before quillboar Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Camp established Mage",
-    "region": "Main camp Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Spider Quests complete Mage",
-    "region": "Hruns barrow Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Second class quests complete Mage",
-    "region": "Harpy roost Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Harpy quests complete Mage",
-    "region": "Harpy roost Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Freeing the light complete Mage",
-    "region": "Main camp Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by beach Mage",
-    "region": "Before quillboar Mage",
-    "category": ["Misc", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Gork the basher defeated Mage",
-    "region": "Before quillboar Mage",
-    "category": ["Misc", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Chest right of leaving quillboars Mage",
-    "region": "Main camp Mage",
-    "category": ["Misc", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by totem in harpy roost Mage",
-    "region": "Harpy roost Mage",
-    "category": ["Misc", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Ogre taskmaster defeated Mage",
-    "region": "Harpy roost Mage",
-    "category": ["Misc", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Killclaw the terrible quest complete Mage",
-    "region": "Citadel Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel Chest Mage",
-    "region": "Citadel Mage",
-    "category": ["Misc", "Mage"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel quests complete Mage",
-    "region": "Citadel Mage",
-    "category": ["Quests", "Mage"],
-    "requires": ""
-  },
-
-  {
-    "name": "Ship quests complete Monk",
-    "region": "Before quillboar Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Murloc quests complete Monk",
-    "region": "Before quillboar Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Abandoned camp quests complete Monk",
-    "region": "Before quillboar Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "First class quests complete Monk",
-    "region": "Before quillboar Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Quillboar quests complete Monk",
-    "region": "Before quillboar Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Camp established Monk",
-    "region": "Main camp Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Spider Quests complete Monk",
-    "region": "Hruns barrow Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Second class quests complete Monk",
-    "region": "Harpy roost Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Harpy quests complete Monk",
-    "region": "Harpy roost Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Freeing the light complete Monk",
-    "region": "Main camp Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by beach Monk",
-    "region": "Before quillboar Monk",
-    "category": ["Misc", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Gork the basher defeated Monk",
-    "region": "Before quillboar Monk",
-    "category": ["Misc", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Chest right of leaving quillboars Monk",
-    "region": "Main camp Monk",
-    "category": ["Misc", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by totem in harpy roost Monk",
-    "region": "Harpy roost Monk",
-    "category": ["Misc", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Ogre taskmaster defeated Monk",
-    "region": "Harpy roost Monk",
-    "category": ["Misc", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Killclaw the terrible quest complete Monk",
-    "region": "Citadel Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel Chest Monk",
-    "region": "Citadel Monk",
-    "category": ["Misc", "Monk"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel quests complete Monk",
-    "region": "Citadel Monk",
-    "category": ["Quests", "Monk"],
-    "requires": ""
-  },
-
-  {
-    "name": "Ship quests complete Paladin",
-    "region": "Before quillboar Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Murloc quests complete Paladin",
-    "region": "Before quillboar Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Abandoned camp quests complete Paladin",
-    "region": "Before quillboar Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "First class quests complete Paladin",
-    "region": "Before quillboar Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Quillboar quests complete Paladin",
-    "region": "Before quillboar Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Camp established Paladin",
-    "region": "Main camp Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Spider Quests complete Paladin",
-    "region": "Hruns barrow Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Second class quests complete Paladin",
-    "region": "Main camp Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Harpy quests complete Paladin",
-    "region": "Harpy roost Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Freeing the light complete Paladin",
-    "region": "Main camp Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by beach Paladin",
-    "region": "Before quillboar Paladin",
-    "category": ["Misc", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Gork the basher defeated Paladin",
-    "region": "Before quillboar Paladin",
-    "category": ["Misc", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Chest right of leaving quillboars Paladin",
-    "region": "Main camp Paladin",
-    "category": ["Misc", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by totem in harpy roost Paladin",
-    "region": "Harpy roost Paladin",
-    "category": ["Misc", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Ogre taskmaster defeated Paladin",
-    "region": "Harpy roost Paladin",
-    "category": ["Misc", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Killclaw the terrible quest complete Paladin",
-    "region": "Citadel Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel Chest Paladin",
-    "region": "Citadel Paladin",
-    "category": ["Misc", "Paladin"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel quests complete Paladin",
-    "region": "Citadel Paladin",
-    "category": ["Quests", "Paladin"],
-    "requires": ""
-  },
-
-  {
-    "name": "Ship quests complete Priest",
-    "region": "Before quillboar Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Murloc quests complete Priest",
-    "region": "Before quillboar Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Abandoned camp quests complete Priest",
-    "region": "Before quillboar Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "First class quests complete Priest",
-    "region": "Before quillboar Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Quillboar quests complete Priest",
-    "region": "Before quillboar Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Camp established Priest",
-    "region": "Main camp Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Spider Quests complete Priest",
-    "region": "Hruns barrow Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Second class quests complete Priest",
-    "region": "Main camp Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Harpy quests complete Priest",
-    "region": "Harpy roost Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Freeing the light complete Priest",
-    "region": "Main camp Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by beach Priest",
-    "region": "Before quillboar Priest",
-    "category": ["Misc", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Gork the basher defeated Priest",
-    "region": "Before quillboar Priest",
-    "category": ["Misc", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Chest right of leaving quillboars Priest",
-    "region": "Main camp Priest",
-    "category": ["Misc", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by totem in harpy roost Priest",
-    "region": "Harpy roost Priest",
-    "category": ["Misc", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Ogre taskmaster defeated Priest",
-    "region": "Harpy roost Priest",
-    "category": ["Misc", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Killclaw the terrible quest complete Priest",
-    "region": "Citadel Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel Chest Priest",
-    "region": "Citadel Priest",
-    "category": ["Misc", "Priest"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel quests complete Priest",
-    "region": "Citadel Priest",
-    "category": ["Quests", "Priest"],
-    "requires": ""
-  },
-
-  {
-    "name": "Ship quests complete Rogue",
-    "region": "Before quillboar Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Murloc quests complete Rogue",
-    "region": "Before quillboar Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Abandoned camp quests complete Rogue",
-    "region": "Before quillboar Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "First class quests complete Rogue",
-    "region": "Before quillboar Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Quillboar quests complete Rogue",
-    "region": "Before quillboar Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Camp established Rogue",
-    "region": "Main camp Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Spider Quests complete Rogue",
-    "region": "Hruns barrow Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Second class quests complete Rogue",
-    "region": "Main camp Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Harpy quests complete Rogue",
-    "region": "Harpy roost Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Freeing the light complete Rogue",
-    "region": "Main camp Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by beach Rogue",
-    "region": "Before quillboar Rogue",
-    "category": ["Misc", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Gork the basher defeated Rogue",
-    "region": "Before quillboar Rogue",
-    "category": ["Misc", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Chest right of leaving quillboars Rogue",
-    "region": "Main camp Rogue",
-    "category": ["Misc", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by totem in harpy roost Rogue",
-    "region": "Harpy roost Rogue",
-    "category": ["Misc", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Ogre taskmaster defeated Rogue",
-    "region": "Harpy roost Rogue",
-    "category": ["Misc", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Killclaw the terrible quest complete Rogue",
-    "region": "Citadel Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel Chest Rogue",
-    "region": "Citadel Rogue",
-    "category": ["Misc", "Rogue"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel quests complete Rogue",
-    "region": "Citadel Rogue",
-    "category": ["Quests", "Rogue"],
-    "requires": ""
-  },
-
-  {
-    "name": "Ship quests complete Shaman",
-    "region": "Before quillboar Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Murloc quests complete Shaman",
-    "region": "Before quillboar Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Abandoned camp quests complete Shaman",
-    "region": "Before quillboar Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "First class quests complete Shaman",
-    "region": "Before quillboar Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Quillboar quests complete Shaman",
-    "region": "Before quillboar Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Camp established Shaman",
-    "region": "Main camp Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Spider Quests complete Shaman",
-    "region": "Hruns barrow Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Second class quests complete Shaman",
-    "region": "Main camp Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Harpy quests complete Shaman",
-    "region": "Harpy roost Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Freeing the light complete Shaman",
-    "region": "Main camp Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by beach Shaman",
-    "region": "Before quillboar Shaman",
-    "category": ["Misc", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Gork the basher defeated Shaman",
-    "region": "Before quillboar Shaman",
-    "category": ["Misc", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Chest right of leaving quillboars Shaman",
-    "region": "Main camp Shaman",
-    "category": ["Misc", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by totem in harpy roost Shaman",
-    "region": "Harpy roost Shaman",
-    "category": ["Misc", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Ogre taskmaster defeated Shaman",
-    "region": "Harpy roost Shaman",
-    "category": ["Misc", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Killclaw the terrible quest complete Shaman",
-    "region": "Citadel Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel Chest Shaman",
-    "region": "Citadel Shaman",
-    "category": ["Misc", "Shaman"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel quests complete Shaman",
-    "region": "Citadel Shaman",
-    "category": ["Quests", "Shaman"],
-    "requires": ""
-  },
-
-  {
-    "name": "Ship quests complete Warlock",
-    "region": "Before quillboar Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Murloc quests complete Warlock",
-    "region": "Before quillboar Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Abandoned camp quests complete Warlock",
-    "region": "Before quillboar Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "First class quests complete Warlock",
-    "region": "Before quillboar Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Quillboar quests complete Warlock",
-    "region": "Before quillboar Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Camp established Warlock",
-    "region": "Main camp Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Spider Quests complete Warlock",
-    "region": "Hruns barrow Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Second class quests complete Warlock",
-    "region": "Main camp Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Harpy quests complete Warlock",
-    "region": "Harpy roost Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Freeing the light complete Warlock",
-    "region": "Main camp Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by beach Warlock",
-    "region": "Before quillboar Warlock",
-    "category": ["Misc", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Gork the basher defeated Warlock",
-    "region": "Before quillboar Warlock",
-    "category": ["Misc", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Chest right of leaving quillboars Warlock",
-    "region": "Main camp Warlock",
-    "category": ["Misc", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by totem in harpy roost Warlock",
-    "region": "Harpy roost Warlock",
-    "category": ["Misc", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Ogre taskmaster defeated Warlock",
-    "region": "Harpy roost Warlock",
-    "category": ["Misc", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Killclaw the terrible quest complete Warlock",
-    "region": "Citadel Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel Chest Warlock",
-    "region": "Citadel Warlock",
-    "category": ["Misc", "Warlock"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel quests complete Warlock",
-    "region": "Citadel Warlock",
-    "category": ["Quests", "Warlock"],
-    "requires": ""
-  },
-
-  {
-    "name": "Ship quests complete Warrior",
-    "region": "Before quillboar Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Murloc quests complete Warrior",
-    "region": "Before quillboar Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Abandoned camp quests complete Warrior",
-    "region": "Before quillboar Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "First class quests complete Warrior",
-    "region": "Before quillboar Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Quillboar quests complete Warrior",
-    "region": "Before quillboar Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Camp established Warrior",
-    "region": "Main camp Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Spider Quests complete Warrior",
-    "region": "Hruns barrow Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Second class quests complete Warrior",
-    "region": "Main camp Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Harpy quests complete Warrior",
-    "region": "Harpy roost Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Freeing the light complete Warrior",
-    "region": "Main camp Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by beach Warrior",
-    "region": "Before quillboar Warrior",
-    "category": ["Misc", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Gork the basher defeated Warrior",
-    "region": "Before quillboar Warrior",
-    "category": ["Misc", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Chest right of leaving quillboars Warrior",
-    "region": "Main camp Warrior",
-    "category": ["Misc", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Chest by totem in harpy roost Warrior",
-    "region": "Harpy roost Warrior",
-    "category": ["Misc", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Ogre taskmaster defeated Warrior",
-    "region": "Harpy roost Warrior",
-    "category": ["Misc", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Killclaw the terrible quest complete Warrior",
-    "region": "Citadel Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel Chest Warrior",
-    "region": "Citadel Warrior",
-    "category": ["Misc", "Warrior"],
-    "requires": ""
-  },
-  {
-    "name": "Citadel quests complete Warrior",
-    "region": "Citadel Warrior",
-    "category": ["Quests", "Warrior"],
-    "requires": ""
-  },
+      "name": "Ship quests complete Druid",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Murloc quests complete Druid",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned camp quests complete Druid",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First class quests complete Druid",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quillboar quests complete Druid",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Camp established Druid",
+      "region": "Main camp Druid",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spider Quests complete Druid",
+      "region": "Hruns barrow Druid",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Second class quests complete Druid",
+      "region": "Hruns barrow Druid",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Harpy quests complete Druid",
+      "region": "Harpy roost Druid",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Freeing the light complete Druid",
+      "region": "Main camp Druid",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by beach Druid",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gork the basher defeated Druid",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest right of leaving quillboars Druid",
+      "region": "Main camp Druid",
+      "category": [
+        "Misc",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by totem in harpy roost Druid",
+      "region": "Harpy roost Druid",
+      "category": [
+        "Misc",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ogre taskmaster defeated Druid",
+      "region": "Harpy roost Druid",
+      "category": [
+        "Misc",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Killclaw the terrible quest complete Druid",
+      "region": "Citadel Druid",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel Chest Druid",
+      "region": "Citadel Druid",
+      "category": [
+        "Misc",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel quests complete Druid",
+      "region": "Citadel Druid",
+      "category": [
+        "Quests",
+        "Druid"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ship quests complete Hunter",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Murloc quests complete Hunter",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned camp quests complete Hunter",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First class quests complete Hunter",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quillboar quests complete Hunter",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Camp established Hunter",
+      "region": "Main camp Hunter",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spider Quests complete Hunter",
+      "region": "Hruns barrow Hunter",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Second class quests complete Hunter",
+      "region": "Harpy roost Hunter",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Harpy quests complete Hunter",
+      "region": "Harpy roost Hunter",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Freeing the light complete Hunter",
+      "region": "Main camp Hunter",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by beach Hunter",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gork the basher defeated Hunter",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest right of leaving quillboars Hunter",
+      "region": "Main camp Hunter",
+      "category": [
+        "Misc",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by totem in harpy roost Hunter",
+      "region": "Harpy roost Hunter",
+      "category": [
+        "Misc",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ogre taskmaster defeated Hunter",
+      "region": "Harpy roost Hunter",
+      "category": [
+        "Misc",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Killclaw the terrible quest complete Hunter",
+      "region": "Citadel Hunter",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel Chest Hunter",
+      "region": "Citadel Hunter",
+      "category": [
+        "Misc",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel quests complete Hunter",
+      "region": "Citadel Hunter",
+      "category": [
+        "Quests",
+        "Hunter"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ship quests complete Mage",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Murloc quests complete Mage",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned camp quests complete Mage",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First class quests complete Mage",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quillboar quests complete Mage",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Camp established Mage",
+      "region": "Main camp Mage",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spider Quests complete Mage",
+      "region": "Hruns barrow Mage",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Second class quests complete Mage",
+      "region": "Harpy roost Mage",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Harpy quests complete Mage",
+      "region": "Harpy roost Mage",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Freeing the light complete Mage",
+      "region": "Main camp Mage",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by beach Mage",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gork the basher defeated Mage",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest right of leaving quillboars Mage",
+      "region": "Main camp Mage",
+      "category": [
+        "Misc",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by totem in harpy roost Mage",
+      "region": "Harpy roost Mage",
+      "category": [
+        "Misc",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ogre taskmaster defeated Mage",
+      "region": "Harpy roost Mage",
+      "category": [
+        "Misc",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Killclaw the terrible quest complete Mage",
+      "region": "Citadel Mage",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel Chest Mage",
+      "region": "Citadel Mage",
+      "category": [
+        "Misc",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel quests complete Mage",
+      "region": "Citadel Mage",
+      "category": [
+        "Quests",
+        "Mage"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ship quests complete Monk",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Murloc quests complete Monk",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned camp quests complete Monk",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First class quests complete Monk",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quillboar quests complete Monk",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Camp established Monk",
+      "region": "Main camp Monk",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spider Quests complete Monk",
+      "region": "Hruns barrow Monk",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Second class quests complete Monk",
+      "region": "Harpy roost Monk",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Harpy quests complete Monk",
+      "region": "Harpy roost Monk",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Freeing the light complete Monk",
+      "region": "Main camp Monk",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by beach Monk",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gork the basher defeated Monk",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest right of leaving quillboars Monk",
+      "region": "Main camp Monk",
+      "category": [
+        "Misc",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by totem in harpy roost Monk",
+      "region": "Harpy roost Monk",
+      "category": [
+        "Misc",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ogre taskmaster defeated Monk",
+      "region": "Harpy roost Monk",
+      "category": [
+        "Misc",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Killclaw the terrible quest complete Monk",
+      "region": "Citadel Monk",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel Chest Monk",
+      "region": "Citadel Monk",
+      "category": [
+        "Misc",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel quests complete Monk",
+      "region": "Citadel Monk",
+      "category": [
+        "Quests",
+        "Monk"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ship quests complete Paladin",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Murloc quests complete Paladin",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned camp quests complete Paladin",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First class quests complete Paladin",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quillboar quests complete Paladin",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Camp established Paladin",
+      "region": "Main camp Paladin",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spider Quests complete Paladin",
+      "region": "Hruns barrow Paladin",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Second class quests complete Paladin",
+      "region": "Main camp Paladin",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Harpy quests complete Paladin",
+      "region": "Harpy roost Paladin",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Freeing the light complete Paladin",
+      "region": "Main camp Paladin",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by beach Paladin",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gork the basher defeated Paladin",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest right of leaving quillboars Paladin",
+      "region": "Main camp Paladin",
+      "category": [
+        "Misc",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by totem in harpy roost Paladin",
+      "region": "Harpy roost Paladin",
+      "category": [
+        "Misc",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ogre taskmaster defeated Paladin",
+      "region": "Harpy roost Paladin",
+      "category": [
+        "Misc",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Killclaw the terrible quest complete Paladin",
+      "region": "Citadel Paladin",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel Chest Paladin",
+      "region": "Citadel Paladin",
+      "category": [
+        "Misc",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel quests complete Paladin",
+      "region": "Citadel Paladin",
+      "category": [
+        "Quests",
+        "Paladin"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ship quests complete Priest",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Murloc quests complete Priest",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned camp quests complete Priest",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First class quests complete Priest",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quillboar quests complete Priest",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Camp established Priest",
+      "region": "Main camp Priest",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spider Quests complete Priest",
+      "region": "Hruns barrow Priest",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Second class quests complete Priest",
+      "region": "Main camp Priest",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Harpy quests complete Priest",
+      "region": "Harpy roost Priest",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Freeing the light complete Priest",
+      "region": "Main camp Priest",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by beach Priest",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gork the basher defeated Priest",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest right of leaving quillboars Priest",
+      "region": "Main camp Priest",
+      "category": [
+        "Misc",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by totem in harpy roost Priest",
+      "region": "Harpy roost Priest",
+      "category": [
+        "Misc",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ogre taskmaster defeated Priest",
+      "region": "Harpy roost Priest",
+      "category": [
+        "Misc",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Killclaw the terrible quest complete Priest",
+      "region": "Citadel Priest",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel Chest Priest",
+      "region": "Citadel Priest",
+      "category": [
+        "Misc",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel quests complete Priest",
+      "region": "Citadel Priest",
+      "category": [
+        "Quests",
+        "Priest"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ship quests complete Rogue",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Murloc quests complete Rogue",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned camp quests complete Rogue",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First class quests complete Rogue",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quillboar quests complete Rogue",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Camp established Rogue",
+      "region": "Main camp Rogue",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spider Quests complete Rogue",
+      "region": "Hruns barrow Rogue",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Second class quests complete Rogue",
+      "region": "Main camp Rogue",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Harpy quests complete Rogue",
+      "region": "Harpy roost Rogue",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Freeing the light complete Rogue",
+      "region": "Main camp Rogue",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by beach Rogue",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gork the basher defeated Rogue",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest right of leaving quillboars Rogue",
+      "region": "Main camp Rogue",
+      "category": [
+        "Misc",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by totem in harpy roost Rogue",
+      "region": "Harpy roost Rogue",
+      "category": [
+        "Misc",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ogre taskmaster defeated Rogue",
+      "region": "Harpy roost Rogue",
+      "category": [
+        "Misc",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Killclaw the terrible quest complete Rogue",
+      "region": "Citadel Rogue",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel Chest Rogue",
+      "region": "Citadel Rogue",
+      "category": [
+        "Misc",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel quests complete Rogue",
+      "region": "Citadel Rogue",
+      "category": [
+        "Quests",
+        "Rogue"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ship quests complete Shaman",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Murloc quests complete Shaman",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned camp quests complete Shaman",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First class quests complete Shaman",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quillboar quests complete Shaman",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Camp established Shaman",
+      "region": "Main camp Shaman",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spider Quests complete Shaman",
+      "region": "Hruns barrow Shaman",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Second class quests complete Shaman",
+      "region": "Main camp Shaman",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Harpy quests complete Shaman",
+      "region": "Harpy roost Shaman",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Freeing the light complete Shaman",
+      "region": "Main camp Shaman",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by beach Shaman",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gork the basher defeated Shaman",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest right of leaving quillboars Shaman",
+      "region": "Main camp Shaman",
+      "category": [
+        "Misc",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by totem in harpy roost Shaman",
+      "region": "Harpy roost Shaman",
+      "category": [
+        "Misc",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ogre taskmaster defeated Shaman",
+      "region": "Harpy roost Shaman",
+      "category": [
+        "Misc",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Killclaw the terrible quest complete Shaman",
+      "region": "Citadel Shaman",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel Chest Shaman",
+      "region": "Citadel Shaman",
+      "category": [
+        "Misc",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel quests complete Shaman",
+      "region": "Citadel Shaman",
+      "category": [
+        "Quests",
+        "Shaman"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ship quests complete Warlock",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Murloc quests complete Warlock",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned camp quests complete Warlock",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First class quests complete Warlock",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quillboar quests complete Warlock",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Camp established Warlock",
+      "region": "Main camp Warlock",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spider Quests complete Warlock",
+      "region": "Hruns barrow Warlock",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Second class quests complete Warlock",
+      "region": "Main camp Warlock",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Harpy quests complete Warlock",
+      "region": "Harpy roost Warlock",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Freeing the light complete Warlock",
+      "region": "Main camp Warlock",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by beach Warlock",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gork the basher defeated Warlock",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest right of leaving quillboars Warlock",
+      "region": "Main camp Warlock",
+      "category": [
+        "Misc",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by totem in harpy roost Warlock",
+      "region": "Harpy roost Warlock",
+      "category": [
+        "Misc",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ogre taskmaster defeated Warlock",
+      "region": "Harpy roost Warlock",
+      "category": [
+        "Misc",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Killclaw the terrible quest complete Warlock",
+      "region": "Citadel Warlock",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel Chest Warlock",
+      "region": "Citadel Warlock",
+      "category": [
+        "Misc",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel quests complete Warlock",
+      "region": "Citadel Warlock",
+      "category": [
+        "Quests",
+        "Warlock"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ship quests complete Warrior",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Murloc quests complete Warrior",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Abandoned camp quests complete Warrior",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First class quests complete Warrior",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Quillboar quests complete Warrior",
+      "region": "Before quillboar",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Camp established Warrior",
+      "region": "Main camp Warrior",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Spider Quests complete Warrior",
+      "region": "Hruns barrow Warrior",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Second class quests complete Warrior",
+      "region": "Main camp Warrior",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Harpy quests complete Warrior",
+      "region": "Harpy roost Warrior",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Freeing the light complete Warrior",
+      "region": "Main camp Warrior",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by beach Warrior",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Gork the basher defeated Warrior",
+      "region": "Before quillboar",
+      "category": [
+        "Misc",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest right of leaving quillboars Warrior",
+      "region": "Main camp Warrior",
+      "category": [
+        "Misc",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Chest by totem in harpy roost Warrior",
+      "region": "Harpy roost Warrior",
+      "category": [
+        "Misc",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ogre taskmaster defeated Warrior",
+      "region": "Harpy roost Warrior",
+      "category": [
+        "Misc",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Killclaw the terrible quest complete Warrior",
+      "region": "Citadel Warrior",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel Chest Warrior",
+      "region": "Citadel Warrior",
+      "category": [
+        "Misc",
+        "Warrior"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Citadel quests complete Warrior",
+      "region": "Citadel Warrior",
+      "category": [
+        "Quests",
+        "Warrior"
+      ],
+      "requires": ""
+    },
     {
       "name": "Druid level 2",
       "region": "Before quillboar",
-      "category": ["Druid"],
+      "category": [
+        "Druid"
+      ],
       "requires": "|Druid|"
     },
     {
       "name": "Druid level 3",
       "region": "Before quillboar",
-      "category": ["Druid"],
+      "category": [
+        "Druid"
+      ],
       "requires": "|Druid|"
     },
     {
       "name": "Druid level 4",
       "region": "Before quillboar",
-      "category": ["Druid"],
+      "category": [
+        "Druid"
+      ],
       "requires": "|Druid|"
     },
     {
       "name": "Druid level 5",
       "region": "Before quillboar",
-      "category": ["Druid"],
+      "category": [
+        "Druid"
+      ],
       "requires": "|Druid|"
     },
     {
       "name": "Druid level 6",
-      "region": "Main camp",
-      "category": ["Druid"],
+      "region": "Main camp Druid",
+      "category": [
+        "Druid"
+      ],
       "requires": "|Progressive level cap Druid| AND |Druid|"
     },
     {
       "name": "Druid level 7",
-      "region": "Main camp",
-      "category": ["Druid"],
+      "region": "Main camp Druid",
+      "category": [
+        "Druid"
+      ],
       "requires": "|Progressive level cap Druid| AND |Druid|"
     },
     {
       "name": "Druid level 8",
-      "region": "Citadel",
-      "category": ["Druid"],
+      "region": "Citadel Druid",
+      "category": [
+        "Druid"
+      ],
       "requires": "|Progressive level cap Druid| AND |Druid|"
     },
     {
       "name": "Druid level 9",
-      "region": "Citadel",
-      "category": ["Druid"],
+      "region": "Citadel Druid",
+      "category": [
+        "Druid"
+      ],
       "requires": "|Progressive level cap Druid| AND |Druid|"
     },
     {
       "name": "Druid level 10",
-      "region": "Dungeon",
-      "category": ["Druid"],
+      "region": "Dungeon Druid",
+      "category": [
+        "Druid"
+      ],
       "requires": "|Progressive level cap Druid| AND |Druid|"
     },
     {
       "name": "Druid dungeon complete",
-      "region": "Dungeon",
-      "category": ["Druid"],
+      "region": "Dungeon Druid",
+      "category": [
+        "Druid"
+      ],
       "requires": "|Druid|"
     },
     {
       "name": "Hunter level 2",
       "region": "Before quillboar",
-      "category": ["Hunter"],
+      "category": [
+        "Hunter"
+      ],
       "requires": "|Hunter|"
     },
     {
       "name": "Hunter level 3",
       "region": "Before quillboar",
-      "category": ["Hunter"],
+      "category": [
+        "Hunter"
+      ],
       "requires": "|Hunter|"
     },
     {
       "name": "Hunter level 4",
       "region": "Before quillboar",
-      "category": ["Hunter"],
+      "category": [
+        "Hunter"
+      ],
       "requires": "|Hunter|"
     },
     {
       "name": "Hunter level 5",
       "region": "Before quillboar",
-      "category": ["Hunter"],
+      "category": [
+        "Hunter"
+      ],
       "requires": "|Hunter|"
     },
     {
       "name": "Hunter level 6",
-      "region": "Main camp",
-      "category": ["Hunter"],
+      "region": "Main camp Hunter",
+      "category": [
+        "Hunter"
+      ],
       "requires": "|Progressive level cap Hunter| AND |Hunter|"
     },
     {
       "name": "Hunter level 7",
-      "region": "Main camp",
-      "category": ["Hunter"],
+      "region": "Main camp Hunter",
+      "category": [
+        "Hunter"
+      ],
       "requires": "|Progressive level cap Hunter| AND |Hunter|"
     },
     {
       "name": "Hunter level 8",
-      "region": "Citadel",
-      "category": ["Hunter"],
+      "region": "Citadel Hunter",
+      "category": [
+        "Hunter"
+      ],
       "requires": "|Progressive level cap Hunter| AND |Hunter|"
     },
     {
       "name": "Hunter level 9",
-      "region": "Citadel",
-      "category": ["Hunter"],
+      "region": "Citadel Hunter",
+      "category": [
+        "Hunter"
+      ],
       "requires": "|Progressive level cap Hunter| AND |Hunter|"
     },
     {
       "name": "Hunter level 10",
-      "region": "Dungeon",
-      "category": ["Hunter"],
+      "region": "Dungeon Hunter",
+      "category": [
+        "Hunter"
+      ],
       "requires": "|Progressive level cap Hunter| AND |Hunter|"
     },
     {
       "name": "Hunter dungeon complete",
-      "region": "Dungeon",
-      "category": ["Hunter"],
+      "region": "Dungeon Hunter",
+      "category": [
+        "Hunter"
+      ],
       "requires": "|Hunter|"
     },
     {
       "name": "Mage level 2",
       "region": "Before quillboar",
-      "category": ["Mage"],
+      "category": [
+        "Mage"
+      ],
       "requires": "|Mage|"
     },
     {
       "name": "Mage level 3",
       "region": "Before quillboar",
-      "category": ["Mage"],
+      "category": [
+        "Mage"
+      ],
       "requires": "|Mage|"
     },
     {
       "name": "Mage level 4",
       "region": "Before quillboar",
-      "category": ["Mage"],
+      "category": [
+        "Mage"
+      ],
       "requires": "|Mage|"
     },
     {
       "name": "Mage level 5",
       "region": "Before quillboar",
-      "category": ["Mage"],
+      "category": [
+        "Mage"
+      ],
       "requires": "|Mage|"
     },
     {
       "name": "Mage level 6",
-      "region": "Main camp",
-      "category": ["Mage"],
+      "region": "Main camp Mage",
+      "category": [
+        "Mage"
+      ],
       "requires": "|Progressive level cap Mage| AND |Mage|"
     },
     {
       "name": "Mage level 7",
-      "region": "Main camp",
-      "category": ["Mage"],
+      "region": "Main camp Mage",
+      "category": [
+        "Mage"
+      ],
       "requires": "|Progressive level cap Mage| AND |Mage|"
     },
     {
       "name": "Mage level 8",
-      "region": "Citadel",
-      "category": ["Mage"],
+      "region": "Citadel Mage",
+      "category": [
+        "Mage"
+      ],
       "requires": "|Progressive level cap Mage| AND |Mage|"
     },
     {
       "name": "Mage level 9",
-      "region": "Citadel",
-      "category": ["Mage"],
+      "region": "Citadel Mage",
+      "category": [
+        "Mage"
+      ],
       "requires": "|Progressive level cap Mage| AND |Mage|"
     },
     {
       "name": "Mage level 10",
-      "region": "Dungeon",
-      "category": ["Mage"],
+      "region": "Dungeon Mage",
+      "category": [
+        "Mage"
+      ],
       "requires": "|Progressive level cap Mage| AND |Mage|"
     },
     {
       "name": "Mage dungeon complete",
-      "region": "Dungeon",
-      "category": ["Mage"],
+      "region": "Dungeon Mage",
+      "category": [
+        "Mage"
+      ],
       "requires": "|Mage|"
     },
     {
       "name": "Monk level 2",
       "region": "Before quillboar",
-      "category": ["Monk"],
+      "category": [
+        "Monk"
+      ],
       "requires": "|Monk|"
     },
     {
       "name": "Monk level 3",
       "region": "Before quillboar",
-      "category": ["Monk"],
+      "category": [
+        "Monk"
+      ],
       "requires": "|Monk|"
     },
     {
       "name": "Monk level 4",
       "region": "Before quillboar",
-      "category": ["Monk"],
+      "category": [
+        "Monk"
+      ],
       "requires": "|Monk|"
     },
     {
       "name": "Monk level 5",
       "region": "Before quillboar",
-      "category": ["Monk"],
+      "category": [
+        "Monk"
+      ],
       "requires": "|Monk|"
     },
     {
       "name": "Monk level 6",
-      "region": "Main camp",
-      "category": ["Monk"],
-      "requires": "|Progressive level cap Druid| AND |Monk|"
+      "region": "Main camp Monk",
+      "category": [
+        "Monk"
+      ],
+      "requires": "|Progressive level cap Monk| AND |Monk|"
     },
     {
       "name": "Monk level 7",
-      "region": "Main camp",
-      "category": ["Monk"],
-      "requires": "|Progressive level cap Druid| AND |Monk|"
+      "region": "Main camp Monk",
+      "category": [
+        "Monk"
+      ],
+      "requires": "|Progressive level cap Monk| AND |Monk|"
     },
     {
       "name": "Monk level 8",
-      "region": "Citadel",
-      "category": ["Monk"],
-      "requires": "|Progressive level cap Druid| AND |Monk|"
+      "region": "Citadel Monk",
+      "category": [
+        "Monk"
+      ],
+      "requires": "|Progressive level cap Monk| AND |Monk|"
     },
     {
       "name": "Monk level 9",
-      "region": "Citadel",
-      "category": ["Monk"],
-      "requires": "|Progressive level cap Druid| AND |Monk|"
+      "region": "Citadel Monk",
+      "category": [
+        "Monk"
+      ],
+      "requires": "|Progressive level cap Monk| AND |Monk|"
     },
     {
       "name": "Monk level 10",
-      "region": "Dungeon",
-      "category": ["Monk"],
-      "requires": "|Progressive level cap Druid| AND |Monk|"
+      "region": "Dungeon Monk",
+      "category": [
+        "Monk"
+      ],
+      "requires": "|Progressive level cap Monk| AND |Monk|"
     },
     {
       "name": "Monk dungeon complete",
-      "region": "Dungeon",
-      "category": ["Monk"],
+      "region": "Dungeon Monk",
+      "category": [
+        "Monk"
+      ],
       "requires": "|Monk|"
     },
     {
       "name": "Paladin level 2",
       "region": "Before quillboar",
-      "category": ["Paladin"],
+      "category": [
+        "Paladin"
+      ],
       "requires": "|Paladin|"
     },
     {
       "name": "Paladin level 3",
       "region": "Before quillboar",
-      "category": ["Paladin"],
+      "category": [
+        "Paladin"
+      ],
       "requires": "|Paladin|"
     },
     {
       "name": "Paladin level 4",
       "region": "Before quillboar",
-      "category": ["Paladin"],
+      "category": [
+        "Paladin"
+      ],
       "requires": "|Paladin|"
     },
     {
       "name": "Paladin level 5",
       "region": "Before quillboar",
-      "category": ["Paladin"],
+      "category": [
+        "Paladin"
+      ],
       "requires": "|Paladin|"
     },
     {
       "name": "Paladin level 6",
-      "region": "Main camp",
-      "category": ["Paladin"],
+      "region": "Main camp Paladin",
+      "category": [
+        "Paladin"
+      ],
       "requires": "|Progressive level cap Paladin| AND |Paladin|"
     },
     {
       "name": "Paladin level 7",
-      "region": "Main camp",
-      "category": ["Paladin"],
+      "region": "Main camp Paladin",
+      "category": [
+        "Paladin"
+      ],
       "requires": "|Progressive level cap Paladin| AND |Paladin|"
     },
     {
       "name": "Paladin level 8",
-      "region": "Citadel",
-      "category": ["Paladin"],
+      "region": "Citadel Paladin",
+      "category": [
+        "Paladin"
+      ],
       "requires": "|Progressive level cap Paladin| AND |Paladin|"
     },
     {
       "name": "Paladin level 9",
-      "region": "Citadel",
-      "category": ["Paladin"],
+      "region": "Citadel Paladin",
+      "category": [
+        "Paladin"
+      ],
       "requires": "|Progressive level cap Paladin| AND |Paladin|"
     },
     {
       "name": "Paladin level 10",
-      "region": "Dungeon",
-      "category": ["Paladin"],
+      "region": "Dungeon Paladin",
+      "category": [
+        "Paladin"
+      ],
       "requires": "|Progressive level cap Paladin| AND |Paladin|"
     },
     {
       "name": "Paladin dungeon complete",
-      "region": "Dungeon",
-      "category": ["Paladin"],
+      "region": "Dungeon Paladin",
+      "category": [
+        "Paladin"
+      ],
       "requires": "|Paladin|"
     },
     {
       "name": "Priest level 2",
       "region": "Before quillboar",
-      "category": ["Priest"],
+      "category": [
+        "Priest"
+      ],
       "requires": "|Priest|"
     },
     {
       "name": "Priest level 3",
       "region": "Before quillboar",
-      "category": ["Priest"],
+      "category": [
+        "Priest"
+      ],
       "requires": "|Priest|"
     },
     {
       "name": "Priest level 4",
       "region": "Before quillboar",
-      "category": ["Priest"],
+      "category": [
+        "Priest"
+      ],
       "requires": "|Priest|"
     },
     {
       "name": "Priest level 5",
       "region": "Before quillboar",
-      "category": ["Priest"],
+      "category": [
+        "Priest"
+      ],
       "requires": "|Priest|"
     },
     {
       "name": "Priest level 6",
-      "region": "Main camp",
-      "category": ["Priest"],
+      "region": "Main camp Priest",
+      "category": [
+        "Priest"
+      ],
       "requires": "|Progressive level cap Priest| AND |Priest|"
     },
     {
       "name": "Priest level 7",
-      "region": "Main camp",
-      "category": ["Priest"],
+      "region": "Main camp Priest",
+      "category": [
+        "Priest"
+      ],
       "requires": "|Progressive level cap Priest| AND |Priest|"
     },
     {
       "name": "Priest level 8",
-      "region": "Citadel",
-      "category": ["Priest"],
+      "region": "Citadel Priest",
+      "category": [
+        "Priest"
+      ],
       "requires": "|Progressive level cap Priest| AND |Priest|"
     },
     {
       "name": "Priest level 9",
-      "region": "Citadel",
-      "category": ["Priest"],
+      "region": "Citadel Priest",
+      "category": [
+        "Priest"
+      ],
       "requires": "|Progressive level cap Priest| AND |Priest|"
     },
     {
       "name": "Priest level 10",
-      "region": "Dungeon",
-      "category": ["Priest"],
+      "region": "Dungeon Priest",
+      "category": [
+        "Priest"
+      ],
       "requires": "|Progressive level cap Priest| AND |Priest|"
     },
     {
       "name": "Priest dungeon complete",
-      "region": "Dungeon",
-      "category": ["Priest"],
+      "region": "Dungeon Priest",
+      "category": [
+        "Priest"
+      ],
       "requires": "|Priest|"
     },
     {
       "name": "Rogue level 2",
       "region": "Before quillboar",
-      "category": ["Rogue"],
+      "category": [
+        "Rogue"
+      ],
       "requires": "|Rogue|"
     },
     {
       "name": "Rogue level 3",
       "region": "Before quillboar",
-      "category": ["Rogue"],
+      "category": [
+        "Rogue"
+      ],
       "requires": "|Rogue|"
     },
     {
       "name": "Rogue level 4",
       "region": "Before quillboar",
-      "category": ["Rogue"],
+      "category": [
+        "Rogue"
+      ],
       "requires": "|Rogue|"
     },
     {
       "name": "Rogue level 5",
       "region": "Before quillboar",
-      "category": ["Rogue"],
+      "category": [
+        "Rogue"
+      ],
       "requires": "|Rogue|"
     },
     {
       "name": "Rogue level 6",
-      "region": "Main camp",
-      "category": ["Rogue"],
+      "region": "Main camp Rogue",
+      "category": [
+        "Rogue"
+      ],
       "requires": "|Progressive level cap Rogue| AND |Rogue|"
     },
     {
       "name": "Rogue level 7",
-      "region": "Main camp",
-      "category": ["Rogue"],
+      "region": "Main camp Rogue",
+      "category": [
+        "Rogue"
+      ],
       "requires": "|Progressive level cap Rogue| AND |Rogue|"
     },
     {
       "name": "Rogue level 8",
-      "region": "Citadel",
-      "category": ["Rogue"],
+      "region": "Citadel Rogue",
+      "category": [
+        "Rogue"
+      ],
       "requires": "|Progressive level cap Rogue| AND |Rogue|"
     },
     {
       "name": "Rogue level 9",
-      "region": "Citadel",
-      "category": ["Rogue"],
+      "region": "Citadel Rogue",
+      "category": [
+        "Rogue"
+      ],
       "requires": "|Progressive level cap Rogue| AND |Rogue|"
     },
     {
       "name": "Rogue level 10",
-      "region": "Dungeon",
-      "category": ["Rogue"],
+      "region": "Dungeon Rogue",
+      "category": [
+        "Rogue"
+      ],
       "requires": "|Progressive level cap Rogue| AND |Rogue|"
     },
     {
       "name": "Rogue dungeon complete",
-      "region": "Dungeon",
-      "category": ["Rogue"],
+      "region": "Dungeon Rogue",
+      "category": [
+        "Rogue"
+      ],
       "requires": "|Rogue|"
     },
     {
       "name": "Shaman level 2",
       "region": "Before quillboar",
-      "category": ["Shaman"],
+      "category": [
+        "Shaman"
+      ],
       "requires": "|Shaman|"
     },
     {
       "name": "Shaman level 3",
       "region": "Before quillboar",
-      "category": ["Shaman"],
+      "category": [
+        "Shaman"
+      ],
       "requires": "|Shaman|"
     },
     {
       "name": "Shaman level 4",
       "region": "Before quillboar",
-      "category": ["Shaman"],
+      "category": [
+        "Shaman"
+      ],
       "requires": "|Shaman|"
     },
     {
       "name": "Shaman level 5",
       "region": "Before quillboar",
-      "category": ["Shaman"],
+      "category": [
+        "Shaman"
+      ],
       "requires": "|Shaman|"
     },
     {
       "name": "Shaman level 6",
-      "region": "Main camp",
-      "category": ["Shaman"],
+      "region": "Main camp Shaman",
+      "category": [
+        "Shaman"
+      ],
       "requires": "|Progressive level cap Shaman| AND |Shaman|"
     },
     {
       "name": "Shaman level 7",
-      "region": "Main camp",
-      "category": ["Shaman"],
+      "region": "Main camp Shaman",
+      "category": [
+        "Shaman"
+      ],
       "requires": "|Progressive level cap Shaman| AND |Shaman|"
     },
     {
       "name": "Shaman level 8",
-      "region": "Citadel",
-      "category": ["Shaman"],
+      "region": "Citadel Shaman",
+      "category": [
+        "Shaman"
+      ],
       "requires": "|Progressive level cap Shaman| AND |Shaman|"
     },
     {
       "name": "Shaman level 9",
-      "region": "Citadel",
-      "category": ["Shaman"],
+      "region": "Citadel Shaman",
+      "category": [
+        "Shaman"
+      ],
       "requires": "|Progressive level cap Shaman| AND |Shaman|"
     },
     {
       "name": "Shaman level 10",
-      "region": "Dungeon",
-      "category": ["Shaman"],
+      "region": "Dungeon Shaman",
+      "category": [
+        "Shaman"
+      ],
       "requires": "|Progressive level cap Shaman| AND |Shaman|"
     },
     {
       "name": "Shaman dungeon complete",
-      "region": "Dungeon",
-      "category": ["Shaman"],
+      "region": "Dungeon Shaman",
+      "category": [
+        "Shaman"
+      ],
       "requires": "|Shaman|"
     },
     {
       "name": "Warlock level 2",
       "region": "Before quillboar",
-      "category": ["Warlock"],
+      "category": [
+        "Warlock"
+      ],
       "requires": "|Warlock|"
     },
     {
       "name": "Warlock level 3",
       "region": "Before quillboar",
-      "category": ["Warlock"],
+      "category": [
+        "Warlock"
+      ],
       "requires": "|Warlock|"
     },
     {
       "name": "Warlock level 4",
       "region": "Before quillboar",
-      "category": ["Warlock"],
+      "category": [
+        "Warlock"
+      ],
       "requires": "|Warlock|"
     },
     {
       "name": "Warlock level 5",
       "region": "Before quillboar",
-      "category": ["Warlock"],
+      "category": [
+        "Warlock"
+      ],
       "requires": "|Warlock|"
     },
     {
       "name": "Warlock level 6",
-      "region": "Main camp",
-      "category": ["Warlock"],
+      "region": "Main camp Warlock",
+      "category": [
+        "Warlock"
+      ],
       "requires": "|Progressive level cap Warlock| AND |Warlock|"
     },
     {
       "name": "Warlock level 7",
-      "region": "Main camp",
-      "category": ["Warlock"],
+      "region": "Main camp Warlock",
+      "category": [
+        "Warlock"
+      ],
       "requires": "|Progressive level cap Warlock| AND |Warlock|"
     },
     {
       "name": "Warlock level 8",
-      "region": "Citadel",
-      "category": ["Warlock"],
+      "region": "Citadel Warlock",
+      "category": [
+        "Warlock"
+      ],
       "requires": "|Progressive level cap Warlock| AND |Warlock|"
     },
     {
       "name": "Warlock level 9",
-      "region": "Citadel",
-      "category": ["Warlock"],
+      "region": "Citadel Warlock",
+      "category": [
+        "Warlock"
+      ],
       "requires": "|Progressive level cap Warlock| AND |Warlock|"
     },
     {
       "name": "Warlock level 10",
-      "region": "Dungeon",
-      "category": ["Warlock"],
+      "region": "Dungeon Warlock",
+      "category": [
+        "Warlock"
+      ],
       "requires": "|Progressive level cap Warlock| AND |Warlock|"
     },
     {
       "name": "Warlock dungeon complete",
-      "region": "Dungeon",
-      "category": ["Warlock"],
+      "region": "Dungeon Warlock",
+      "category": [
+        "Warlock"
+      ],
       "requires": "|Warlock|"
     },
     {
       "name": "Warrior level 2",
       "region": "Before quillboar",
-      "category": ["Warrior"],
+      "category": [
+        "Warrior"
+      ],
       "requires": "|Warrior|"
     },
     {
       "name": "Warrior level 3",
       "region": "Before quillboar",
-      "category": ["Warrior"],
+      "category": [
+        "Warrior"
+      ],
       "requires": "|Warrior|"
     },
     {
       "name": "Warrior level 4",
       "region": "Before quillboar",
-      "category": ["Warrior"],
+      "category": [
+        "Warrior"
+      ],
       "requires": "|Warrior|"
     },
     {
       "name": "Warrior level 5",
       "region": "Before quillboar",
-      "category": ["Warrior"],
+      "category": [
+        "Warrior"
+      ],
       "requires": "|Warrior|"
     },
     {
       "name": "Warrior level 6",
-      "region": "Main camp",
-      "category": ["Warrior"],
+      "region": "Main camp Warrior",
+      "category": [
+        "Warrior"
+      ],
       "requires": "|Progressive level cap Warrior| AND |Warrior|"
     },
     {
       "name": "Warrior level 7",
-      "region": "Main camp",
-      "category": ["Warrior"],
+      "region": "Main camp Warrior",
+      "category": [
+        "Warrior"
+      ],
       "requires": "|Progressive level cap Warrior| AND |Warrior|"
     },
     {
       "name": "Warrior level 8",
-      "region": "Citadel",
-      "category": ["Warrior"],
+      "region": "Citadel Warrior",
+      "category": [
+        "Warrior"
+      ],
       "requires": "|Progressive level cap Warrior| AND |Warrior|"
     },
     {
       "name": "Warrior level 9",
-      "region": "Citadel",
-      "category": ["Warrior"],
+      "region": "Citadel Warrior",
+      "category": [
+        "Warrior"
+      ],
       "requires": "|Progressive level cap Warrior| AND |Warrior|"
     },
     {
       "name": "Warrior level 10",
-      "region": "Dungeon",
-      "category": ["Warrior"],
+      "region": "Dungeon Warrior",
+      "category": [
+        "Warrior"
+      ],
       "requires": "|Progressive level cap Warrior| AND |Warrior|"
     },
     {
       "name": "Warrior dungeon complete",
-      "region": "Dungeon",
-      "category": ["Warrior"],
+      "region": "Dungeon Warrior",
+      "category": [
+        "Warrior"
+      ],
       "requires": "|Warrior|"
     },
     {
       "name": "goal complete",
-      "region": "Dungeon",
+      "region": "goal",
       "victory": true,
       "category": "goal",
-      "requires": "{OptionCount(@Class unlock, goal_classes)}"
+      "requires": ""
+    },
+    {
+      "name": "Druid dungeon complete (goal)",
+      "region": "Dungeon Druid",
+      "category": [
+        "Druid"
+      ],
+      "requires": "|Druid|"
+    },
+    {
+      "name": "Hunter dungeon complete (goal)",
+      "region": "Dungeon Hunter",
+      "category": [
+        "Hunter"
+      ],
+      "requires": "|Hunter|"
+    },
+    {
+      "name": "Mage dungeon complete (goal)",
+      "region": "Dungeon Mage",
+      "category": [
+        "Mage"
+      ],
+      "requires": "|Mage|"
+    },
+    {
+      "name": "Monk dungeon complete (goal)",
+      "region": "Dungeon Monk",
+      "category": [
+        "Monk"
+      ],
+      "requires": "|Monk|"
+    },
+    {
+      "name": "Paladin dungeon complete (goal)",
+      "region": "Dungeon Paladin",
+      "category": [
+        "Paladin"
+      ],
+      "requires": "|Paladin|"
+    },
+    {
+      "name": "Priest dungeon complete (goal)",
+      "region": "Dungeon Priest",
+      "category": [
+        "Priest"
+      ],
+      "requires": "|Priest|"
+    },
+    {
+      "name": "Rogue dungeon complete (goal)",
+      "region": "Dungeon Rogue",
+      "category": [
+        "Rogue"
+      ],
+      "requires": "|Rogue|"
+    },
+    {
+      "name": "Shaman dungeon complete (goal)",
+      "region": "Dungeon Shaman",
+      "category": [
+        "Shaman"
+      ],
+      "requires": "|Shaman|"
+    },
+    {
+      "name": "Warlock dungeon complete (goal)",
+      "region": "Dungeon Warlock",
+      "category": [
+        "Warlock"
+      ],
+      "requires": "|Warlock|"
+    },
+    {
+      "name": "Warrior dungeon complete (goal)",
+      "region": "Dungeon Warrior",
+      "category": [
+        "Warrior"
+      ],
+      "requires": "|Warrior|"
     }
   ]
 }

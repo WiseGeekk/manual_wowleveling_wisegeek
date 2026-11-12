@@ -273,6 +273,66 @@
         "Bar unlock"
       ],
       "helpful": true
-    }
+    },
+    {
+    "count": 1,
+    "name": "Dungeon complete Druid",
+    "category": ["Goal item", "Druid"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon complete Hunter",
+    "category": ["Goal item", "Hunter"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon complete Mage",
+    "category": ["Goal item", "Mage"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon complete Monk",
+    "category": ["Goal item", "Monk"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon complete Paladin",
+    "category": ["Goal item", "Paladin"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon complete Priest",
+    "category": ["Goal item", "Priest"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon complete Rogue",
+    "category": ["Goal item", "Rogue"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon complete Shaman",
+    "category": ["Goal item", "Shaman"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon complete Warlock",
+    "category": ["Goal item", "Warlock"],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dungeon complete Warrior",
+    "category": ["Goal item", "Warrior"],
+    "progression": true
+  }
   ]
 }
