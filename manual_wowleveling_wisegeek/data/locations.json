@@ -2434,7 +2434,10 @@
       "category": [
         "Druid"
       ],
-      "requires": "|Druid|"
+      "requires": "|Druid|",
+      "place_item": [
+        "Dungeon complete Druid"
+      ]
     },
     {
       "name": "Hunter dungeon complete (goal)",
@@ -2442,7 +2445,10 @@
       "category": [
         "Hunter"
       ],
-      "requires": "|Hunter|"
+      "requires": "|Hunter|",
+      "place_item": [
+        "Dungeon complete Hunter"
+      ]
     },
     {
       "name": "Mage dungeon complete (goal)",
@@ -2450,7 +2456,10 @@
       "category": [
         "Mage"
       ],
-      "requires": "|Mage|"
+      "requires": "|Mage|",
+      "place_item": [
+        "Dungeon complete Mage"
+      ]
     },
     {
       "name": "Monk dungeon complete (goal)",
@@ -2458,7 +2467,10 @@
       "category": [
         "Monk"
       ],
-      "requires": "|Monk|"
+      "requires": "|Monk|",
+      "place_item": [
+        "Dungeon complete Monk"
+      ]
     },
     {
       "name": "Paladin dungeon complete (goal)",
@@ -2466,7 +2478,10 @@
       "category": [
         "Paladin"
       ],
-      "requires": "|Paladin|"
+      "requires": "|Paladin|",
+      "place_item": [
+        "Dungeon complete Paladin"
+      ]
     },
     {
       "name": "Priest dungeon complete (goal)",
@@ -2474,7 +2489,10 @@
       "category": [
         "Priest"
       ],
-      "requires": "|Priest|"
+      "requires": "|Priest|",
+      "place_item": [
+        "Dungeon complete Priest"
+      ]
     },
     {
       "name": "Rogue dungeon complete (goal)",
@@ -2482,7 +2500,10 @@
       "category": [
         "Rogue"
       ],
-      "requires": "|Rogue|"
+      "requires": "|Rogue|",
+      "place_item": [
+        "Dungeon complete Rogue"
+      ]
     },
     {
       "name": "Shaman dungeon complete (goal)",
@@ -2490,7 +2511,10 @@
       "category": [
         "Shaman"
       ],
-      "requires": "|Shaman|"
+      "requires": "|Shaman|",
+      "place_item": [
+        "Dungeon complete Shaman"
+      ]
     },
     {
       "name": "Warlock dungeon complete (goal)",
@@ -2498,7 +2522,10 @@
       "category": [
         "Warlock"
       ],
-      "requires": "|Warlock|"
+      "requires": "|Warlock|",
+      "place_item": [
+        "Dungeon complete Warlock"
+      ]
     },
     {
       "name": "Warrior dungeon complete (goal)",
@@ -2506,7 +2533,10 @@
       "category": [
         "Warrior"
       ],
-      "requires": "|Warrior|"
+      "requires": "|Warrior|",
+      "place_item": [
+        "Dungeon complete Warrior"
+      ]
     }
   ]
 }
